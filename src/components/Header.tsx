@@ -1,5 +1,6 @@
 import { motion } from 'motion/react';
 import { Languages, MapPin } from 'lucide-react';
+import heroImage from '../assets/images/cheers_bar_hero_1785714870856.jpg';
 
 interface HeaderProps {
   language: 'pt' | 'en';
@@ -13,7 +14,7 @@ export const Header = ({ language, setLanguage }: HeaderProps) => {
       <div 
         className="absolute inset-0 z-0 bg-cover bg-center"
         style={{ 
-          backgroundImage: 'linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9)), url("/src/assets/images/cheers_bar_hero_1785714870856.jpg")' 
+          backgroundImage: `linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9)), url("${heroImage}")` 
         }}
       />
 

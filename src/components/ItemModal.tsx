@@ -1,6 +1,7 @@
 import { motion, AnimatePresence } from 'motion/react';
 import { X, Sparkles, MapPin, Share2 } from 'lucide-react';
 import { MenuItem } from '../types';
+import cocktailDetailImage from '../assets/images/premium_cocktail_detail_1785714891781.jpg';
 
 interface ItemModalProps {
   item: MenuItem | null;
@@ -39,7 +40,7 @@ export const ItemModal = ({ item, onClose, language }: ItemModalProps) => {
           {/* Hero Image Section */}
           <div className="h-64 bg-zinc-800 relative overflow-hidden">
             <img 
-              src="/src/assets/images/premium_cocktail_detail_1785714891781.jpg" 
+              src={cocktailDetailImage} 
               alt={item.name}
               className="w-full h-full object-cover opacity-60"
             />
