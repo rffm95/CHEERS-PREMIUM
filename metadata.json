@@ -1,0 +1,6 @@
+{
+  "name": "Cheers O Bar - Premium Digital Menu",
+  "description": "Experiência digital sofisticada e mobile-first para o Cheers O Bar em Viseu, Portugal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
