@@ -1,0 +1,96 @@
+{
+  "generated_count": 29,
+  "pending_items": [
+    {
+      "id": "pack-gin-mar",
+      "name": "6 Gins Maracujá",
+      "planned_image": "images/generated/pack-passionfruit.webp"
+    },
+    {
+      "id": "pack-gin-mor",
+      "name": "6 Gins Morango",
+      "planned_image": "images/generated/pack-strawberry.webp"
+    },
+    {
+      "id": "pack-reg-sag",
+      "name": "Régua 5 Finos Sagres",
+      "planned_image": "images/generated/pack-finos.webp"
+    },
+    {
+      "id": "pack-reg-hei",
+      "name": "Régua 5 Finos Heineken",
+      "planned_image": "images/generated/pack-finos.webp"
+    },
+    {
+      "id": "pack-can-sag",
+      "name": "6 Canecas Sagres",
+      "planned_image": "images/generated/pack-mugs.webp"
+    },
+    {
+      "id": "pack-can-hei",
+      "name": "6 Canecas Heineken",
+      "planned_image": "images/generated/pack-mugs.webp"
+    },
+    {
+      "id": "pack-sho-cas",
+      "name": "6 Shots da casa",
+      "planned_image": "images/generated/pack-shots.webp"
+    },
+    {
+      "id": "vod-mix",
+      "name": "MIX RED BULL / TÓNICA PREMIUM",
+      "planned_image": "images/generated/tonic-mixer.webp"
+    },
+    {
+      "id": "foo-gel",
+      "name": "Gelado Cone",
+      "planned_image": "images/generated/icecream.webp"
+    },
+    {
+      "id": "foo-tos",
+      "name": "Tosta Mista",
+      "planned_image": "images/generated/toast-ham.webp"
+    },
+    {
+      "id": "foo-tos-atu",
+      "name": "Tosta de Atum",
+      "planned_image": "images/generated/toast-tuna.webp"
+    },
+    {
+      "id": "foo-tos-fra",
+      "name": "Tosta de Frango",
+      "planned_image": "images/generated/toast-chicken.webp"
+    },
+    {
+      "id": "win-santar-curt",
+      "name": "Casa de Santar Curtimenta",
+      "planned_image": "images/generated/orange-wine.webp"
+    },
+    {
+      "id": "san-esp-mar",
+      "name": "Espumante e Maracujá",
+      "planned_image": "images/generated/passionfruit-sangria.webp"
+    },
+    {
+      "id": "san-esp-mor",
+      "name": "Espumante e Morango",
+      "planned_image": "images/generated/strawberry-sangria.webp"
+    },
+    {
+      "id": "sho-cas",
+      "name": "Shot da Casa",
+      "planned_image": "images/generated/fruit-shot.webp"
+    },
+    {
+      "id": "sho-ser",
+      "name": "Shot",
+      "planned_image": "images/generated/clear-shot.webp"
+    },
+    {
+      "id": "sho-pre",
+      "name": "Shot Premium",
+      "planned_image": "images/generated/clear-shot.webp"
+    }
+  ],
+  "reason": "Image generation usage limit reached. Missing files are not referenced by the live menu."
+}
