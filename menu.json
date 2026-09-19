@@ -3,11 +3,15 @@
     "id": "pack-gin-mar",
     "name": {
       "en": "6 Passionfruit Gins",
-      "pt": "6 Gins Maracujá"
+      "pt": "6 Gins Maracujá",
+      "es": "6 Gins de Maracuyá",
+      "fr": "6 Gins Passion"
     },
     "description": {
       "pt": "Gin, maracujá, sumo de lima, açúcar e tónica.",
-      "en": "Gin, passionfruit, lime juice, sugar and tonic."
+      "en": "Gin, passionfruit, lime juice, sugar and tonic.",
+      "es": "Gin, maracuyá, zumo de lima, azúcar y tónica.",
+      "fr": "Gin, fruit de la passion, jus de citron vert, sucre et tonic."
     },
     "price": 35,
     "category": "packs"
@@ -16,11 +20,15 @@
     "id": "pack-gin-mor",
     "name": {
       "en": "6 Strawberry Gins",
-      "pt": "6 Gins Morango"
+      "pt": "6 Gins Morango",
+      "es": "6 Gins de Fresa",
+      "fr": "6 Gins Fraise"
     },
     "description": {
       "en": "Gin, strawberry, lime juice, sugar.",
-      "pt": "Gin, morango, sumo de lima, açúcar."
+      "pt": "Gin, morango, sumo de lima, açúcar.",
+      "es": "Gin, fresa, zumo de lima y azúcar.",
+      "fr": "Gin, fraise, jus de citron vert et sucre."
     },
     "price": 35,
     "category": "packs"
@@ -29,11 +37,15 @@
     "id": "pack-reg-sag",
     "name": {
       "en": "Sagres Tray (5 Finos)",
-      "pt": "Régua 5 Finos Sagres"
+      "pt": "Régua 5 Finos Sagres",
+      "es": "Tabla de 5 Cañas Sagres",
+      "fr": "Plateau de 5 bières Sagres"
     },
     "description": {
       "en": "20cl per unit.",
-      "pt": "20cl"
+      "pt": "20cl",
+      "es": "20cl",
+      "fr": "20cl"
     },
     "price": 6.5,
     "category": "packs"
@@ -42,11 +54,15 @@
     "id": "pack-reg-hei",
     "name": {
       "en": "Heineken Tray (5 Finos)",
-      "pt": "Régua 5 Finos Heineken"
+      "pt": "Régua 5 Finos Heineken",
+      "es": "Tabla de 5 Cañas Heineken",
+      "fr": "Plateau de 5 bières Heineken"
     },
     "description": {
       "en": "25cl per unit.",
-      "pt": "25cl"
+      "pt": "25cl",
+      "es": "25cl",
+      "fr": "25cl"
     },
     "price": 7.5,
     "category": "packs"
@@ -55,11 +71,15 @@
     "id": "pack-can-sag",
     "name": {
       "en": "6 Sagres Mugs",
-      "pt": "6 Canecas Sagres"
+      "pt": "6 Canecas Sagres",
+      "es": "6 Jarras Sagres",
+      "fr": "6 Chopes Sagres"
     },
     "description": {
       "en": "40cl per unit.",
-      "pt": "40cl"
+      "pt": "40cl",
+      "es": "40cl",
+      "fr": "40cl"
     },
     "price": 12.5,
     "category": "packs"
@@ -68,11 +88,15 @@
     "id": "pack-can-hei",
     "name": {
       "en": "6 Heineken Mugs",
-      "pt": "6 Canecas Heineken"
+      "pt": "6 Canecas Heineken",
+      "es": "6 Jarras Heineken",
+      "fr": "6 Chopes Heineken"
     },
     "description": {
       "en": "50cl per unit.",
-      "pt": "50cl"
+      "pt": "50cl",
+      "es": "50cl",
+      "fr": "50cl"
     },
     "price": 15,
     "category": "packs"
@@ -81,11 +105,15 @@
     "id": "pack-sho-cas",
     "name": {
       "en": "6 House Shots",
-      "pt": "6 Shots da casa"
+      "pt": "6 Shots da casa",
+      "es": "6 Chupitos de la Casa",
+      "fr": "6 Shots Maison"
     },
     "description": {
       "en": "Vodka, passionfruit or strawberry puree.",
-      "pt": "Vodka, puré de maracujá ou morango."
+      "pt": "Vodka, puré de maracujá ou morango.",
+      "es": "Vodka, puré de maracuyá o fresa.",
+      "fr": "Vodka, purée de fruit de la passion ou de fraise."
     },
     "price": 10,
     "category": "packs"
@@ -94,11 +122,15 @@
     "id": "cock-whi",
     "name": {
       "en": "White Linen",
-      "pt": "White Linen"
+      "pt": "White Linen",
+      "es": "White Linen",
+      "fr": "White Linen"
     },
     "description": {
       "en": "Hendrick's, St. Germain, cucumber, soda.",
-      "pt": "Hendrick's, st. germain, pepino, soda."
+      "pt": "Hendrick's, st. germain, pepino, soda.",
+      "es": "Hendrick’s, St-Germain, pepino y soda.",
+      "fr": "Hendrick’s, St-Germain, concombre et eau gazeuse."
     },
     "price": 11,
     "category": "cocktails",
@@ -109,11 +141,15 @@
     "id": "cock-haz",
     "name": {
       "en": "Hazelnut Espresso",
-      "pt": "Hazelnut Espresso"
+      "pt": "Hazelnut Espresso",
+      "es": "Hazelnut Espresso",
+      "fr": "Hazelnut Espresso"
     },
     "description": {
       "en": "Baileys, hazelnut liqueur, coffee, vodka, cinnamon, sugar.",
-      "pt": "Baileys, licor de avelã, café, vodka, canela e açúcar."
+      "pt": "Baileys, licor de avelã, café, vodka, canela e açúcar.",
+      "es": "Baileys, licor de avellana, café, vodka, canela y azúcar.",
+      "fr": "Baileys, liqueur de noisette, café, vodka, cannelle et sucre."
     },
     "price": 10,
     "category": "cocktails",
@@ -124,11 +160,15 @@
     "id": "cock-esp",
     "name": {
       "en": "Espresso Martini",
-      "pt": "Espresso Martini"
+      "pt": "Espresso Martini",
+      "es": "Espresso Martini",
+      "fr": "Espresso Martini"
     },
     "description": {
       "en": "Absolut, coffee liqueur, coffee.",
-      "pt": "Absolut, licor de café, café."
+      "pt": "Absolut, licor de café, café.",
+      "es": "Absolut, licor de café y café.",
+      "fr": "Absolut, liqueur de café et café."
     },
     "price": 7,
     "category": "cocktails",
@@ -139,11 +179,15 @@
     "id": "cock-mos",
     "name": {
       "en": "Moscow Mule",
-      "pt": "Moscow Mule"
+      "pt": "Moscow Mule",
+      "es": "Moscow Mule",
+      "fr": "Moscow Mule"
     },
     "description": {
       "en": "Absolut, lime juice, ginger beer, ginger foam.",
-      "pt": "Absolut, sumo de lima, ginger beer, espuma de gengibre."
+      "pt": "Absolut, sumo de lima, ginger beer, espuma de gengibre.",
+      "es": "Absolut, zumo de lima, ginger beer y espuma de jengibre.",
+      "fr": "Absolut, jus de citron vert, ginger beer et mousse de gingembre."
     },
     "price": 8,
     "category": "cocktails",
@@ -153,27 +197,39 @@
   {
     "id": "cock-gin",
     "name": {
-      "en": "Passionfruit Gin",
-      "pt": "Gin Maracujá"
+      "pt": "Gin Tropical",
+      "en": "Gin Tropical",
+      "es": "Gin Tropical",
+      "fr": "Gin Tropical"
     },
     "description": {
       "pt": "Gin, maracujá, sumo de lima, açúcar e tónica.",
-      "en": "Gin, passionfruit, lime juice, sugar and tonic."
+      "en": "Gin, passionfruit, lime juice, sugar and tonic.",
+      "es": "Gin, maracuyá, zumo de lima, azúcar y tónica.",
+      "fr": "Gin, fruit de la passion, jus de citron vert, sucre et tonic."
     },
     "price": 7,
     "category": "cocktails",
-    "image": "images/generated/passionfruit-gin.webp",
-    "imageKind": "illustration"
+    "image": "images/gin-tropical.webp",
+    "imageKind": "photo",
+    "aliases": [
+      "Passionfruit Gin",
+      "Gin Maracujá"
+    ]
   },
   {
     "id": "cock-mac",
     "name": {
       "en": "Maça Dourada",
-      "pt": "Maça Dourada"
+      "pt": "Maça Dourada",
+      "es": "Manzana Dorada",
+      "fr": "Pomme Dorée"
     },
     "description": {
       "en": "Jack Daniel's Apple, Sommersby.",
-      "pt": "Jack daniel's apple, sommersby."
+      "pt": "Jack daniel's apple, sommersby.",
+      "es": "Jack Daniel’s Apple y Somersby.",
+      "fr": "Jack Daniel’s Apple et Somersby."
     },
     "price": 7,
     "category": "cocktails",
@@ -184,26 +240,34 @@
     "id": "cock-moj",
     "name": {
       "en": "Mojito",
-      "pt": "Mojito"
+      "pt": "Mojito",
+      "es": "Mojito",
+      "fr": "Mojito"
     },
     "description": {
       "en": "Rum, mint, lime juice, sugar, soda.",
-      "pt": "Rum, hortelã, sumo de lima, açúcar, soda."
+      "pt": "Rum, hortelã, sumo de lima, açúcar, soda.",
+      "es": "Ron, hierbabuena, zumo de lima, azúcar y soda.",
+      "fr": "Rhum, menthe, jus de citron vert, sucre et eau gazeuse."
     },
     "price": 7,
     "category": "cocktails",
-    "image": "images/mojito.webp",
-    "imageKind": "supplied"
+    "image": "images/mojito-real.webp",
+    "imageKind": "photo"
   },
   {
     "id": "cock-moj-mar",
     "name": {
       "en": "Passionfruit Mojito",
-      "pt": "Mojito Maracujá"
+      "pt": "Mojito Maracujá",
+      "es": "Mojito de Maracuyá",
+      "fr": "Mojito Passion"
     },
     "description": {
       "en": "Rum, mint, lime juice, passionfruit, sugar, soda.",
-      "pt": "Rum, hortelã, sumo de lima, maracujá, açúcar, soda."
+      "pt": "Rum, hortelã, sumo de lima, maracujá, açúcar, soda.",
+      "es": "Ron, hierbabuena, zumo de lima, maracuyá, azúcar y soda.",
+      "fr": "Rhum, menthe, jus de citron vert, fruit de la passion, sucre et eau gazeuse."
     },
     "price": 7,
     "category": "cocktails",
@@ -214,11 +278,15 @@
     "id": "cock-por",
     "name": {
       "en": "Porn Star Martini",
-      "pt": "Porn Star Martini"
+      "pt": "Porn Star Martini",
+      "es": "Porn Star Martini",
+      "fr": "Porn Star Martini"
     },
     "description": {
       "en": "Vanilla vodka, passoa, passionfruit, lime juice, sugar.",
-      "pt": "Vodka de baunilha, passoa, maracujá, sumo de lima, açúcar."
+      "pt": "Vodka de baunilha, passoa, maracujá, sumo de lima, açúcar.",
+      "es": "Vodka de vainilla, Passoã, maracuyá, zumo de lima y azúcar.",
+      "fr": "Vodka à la vanille, Passoã, fruit de la passion, jus de citron vert et sucre."
     },
     "price": 7,
     "category": "cocktails",
@@ -229,11 +297,15 @@
     "id": "cock-neg",
     "name": {
       "en": "Negroni",
-      "pt": "Negroni"
+      "pt": "Negroni",
+      "es": "Negroni",
+      "fr": "Negroni"
     },
     "description": {
       "en": "Tanqueray, campari, vermouth.",
-      "pt": "Tanqueray, campari, vermouth."
+      "pt": "Tanqueray, campari, vermouth.",
+      "es": "Tanqueray, Campari y vermut.",
+      "fr": "Tanqueray, Campari et vermouth."
     },
     "price": 7,
     "category": "cocktails",
@@ -244,11 +316,15 @@
     "id": "cock-teq",
     "name": {
       "en": "Tequila Sunrise",
-      "pt": "Tequila Sunrise"
+      "pt": "Tequila Sunrise",
+      "es": "Tequila Sunrise",
+      "fr": "Tequila Sunrise"
     },
     "description": {
       "en": "Tequila, orange juice, grenadine.",
-      "pt": "Tequila, sumo de laranja, groselha."
+      "pt": "Tequila, sumo de laranja, groselha.",
+      "es": "Tequila, zumo de naranja y sirope de grosella.",
+      "fr": "Tequila, jus d’orange et sirop de groseille."
     },
     "price": 6.5,
     "category": "cocktails",
@@ -259,11 +335,15 @@
     "id": "cock-whi-sou",
     "name": {
       "en": "Whiskey Sour",
-      "pt": "Whiskey Sour"
+      "pt": "Whiskey Sour",
+      "es": "Whiskey Sour",
+      "fr": "Whiskey Sour"
     },
     "description": {
       "en": "Jameson Black Barrel, lime juice, sugar, egg white.",
-      "pt": "Jameson black barrel, sumo de lima, açúcar, clara de ovo."
+      "pt": "Jameson black barrel, sumo de lima, açúcar, clara de ovo.",
+      "es": "Jameson Black Barrel, zumo de lima, azúcar y clara de huevo.",
+      "fr": "Jameson Black Barrel, jus de citron vert, sucre et blanc d’œuf."
     },
     "price": 8,
     "category": "cocktails",
@@ -274,11 +354,15 @@
     "id": "cock-pin",
     "name": {
       "en": "Pinacolada",
-      "pt": "Pinacolada"
+      "pt": "Pinacolada",
+      "es": "Pinacolada",
+      "fr": "Pinacolada"
     },
     "description": {
       "en": "Havana 3, coconut, pineapple.",
-      "pt": "Havana 3, coco, ananás."
+      "pt": "Havana 3, coco, ananás.",
+      "es": "Havana 3, coco y piña.",
+      "fr": "Havana 3, noix de coco et ananas."
     },
     "price": 8,
     "category": "cocktails",
@@ -289,11 +373,15 @@
     "id": "cock-bas",
     "name": {
       "en": "Basil Smash",
-      "pt": "Basil Smash"
+      "pt": "Basil Smash",
+      "es": "Basil Smash",
+      "fr": "Basil Smash"
     },
     "description": {
       "en": "Gin, basil, lime juice, sugar, egg white.",
-      "pt": "Gin, manjericão, sumo de lima, açúcar, clara de ovo."
+      "pt": "Gin, manjericão, sumo de lima, açúcar, clara de ovo.",
+      "es": "Gin, albahaca, zumo de lima, azúcar y clara de huevo.",
+      "fr": "Gin, basilic, jus de citron vert, sucre et blanc d’œuf."
     },
     "price": 7,
     "category": "cocktails",
@@ -304,11 +392,15 @@
     "id": "mock-por",
     "name": {
       "en": "Sunset",
-      "pt": "Por do Sol"
+      "pt": "Por do Sol",
+      "es": "Puesta de Sol",
+      "fr": "Coucher de Soleil"
     },
     "description": {
       "en": "Orange juice, grenadine.",
-      "pt": "Sumo de laranja, groselha."
+      "pt": "Sumo de laranja, groselha.",
+      "es": "Zumo de naranja y sirope de grosella.",
+      "fr": "Jus d’orange et sirop de groseille."
     },
     "price": 4,
     "category": "mocktails",
@@ -319,11 +411,15 @@
     "id": "mock-pan",
     "name": {
       "en": "Pink Panther",
-      "pt": "Pantera Cor de Rosa"
+      "pt": "Pantera Cor de Rosa",
+      "es": "Pantera Rosa",
+      "fr": "Panthère Rose"
     },
     "description": {
       "en": "Strawberry, peach, orange, whipped cream.",
-      "pt": "Morango, pêssego, laranja, chantilly."
+      "pt": "Morango, pêssego, laranja, chantilly.",
+      "es": "Fresa, melocotón, naranja y nata montada.",
+      "fr": "Fraise, pêche, orange et chantilly."
     },
     "price": 4,
     "category": "mocktails",
@@ -334,11 +430,15 @@
     "id": "mock-vir",
     "name": {
       "en": "Virgin Colada",
-      "pt": "Virgem Colada"
+      "pt": "Virgem Colada",
+      "es": "Colada sin Alcohol",
+      "fr": "Colada sans Alcool"
     },
     "description": {
       "en": "Coconut puree, pineapple.",
-      "pt": "Puré de coco, ananás."
+      "pt": "Puré de coco, ananás.",
+      "es": "Puré de coco y piña.",
+      "fr": "Purée de noix de coco et ananas."
     },
     "price": 4,
     "category": "mocktails",
@@ -349,11 +449,15 @@
     "id": "mock-rea",
     "name": {
       "en": "Realito",
-      "pt": "Realito"
+      "pt": "Realito",
+      "es": "Realito",
+      "fr": "Realito"
     },
     "description": {
       "en": "Passionfruit, orange, pineapple, grenadine.",
-      "pt": "Maracujá, laranja, ananás, groselha."
+      "pt": "Maracujá, laranja, ananás, groselha.",
+      "es": "Maracuyá, naranja, piña y sirope de grosella.",
+      "fr": "Fruit de la passion, orange, ananas et sirop de groseille."
     },
     "price": 4,
     "category": "mocktails",
@@ -364,11 +468,15 @@
     "id": "mock-pas",
     "name": {
       "en": "Passion Fizz",
-      "pt": "Passion Fizz"
+      "pt": "Passion Fizz",
+      "es": "Passion Fizz",
+      "fr": "Passion Fizz"
     },
     "description": {
       "en": "Passionfruit, passionfruit puree, soda.",
-      "pt": "Maracujá, puré de maracujá, soda."
+      "pt": "Maracujá, puré de maracujá, soda.",
+      "es": "Maracuyá, puré de maracuyá y soda.",
+      "fr": "Fruit de la passion, purée de fruit de la passion et eau gazeuse."
     },
     "price": 4,
     "category": "mocktails",
@@ -379,11 +487,15 @@
     "id": "gin-ada-ori",
     "name": {
       "en": "Adamus Original",
-      "pt": "Adamus Original"
+      "pt": "Adamus Original",
+      "es": "Adamus Original",
+      "fr": "Adamus Original"
     },
     "description": {
       "en": "Lemon, 1724 tonic.",
-      "pt": "Limão, tónica 1724."
+      "pt": "Limão, tónica 1724.",
+      "es": "Limón y tónica 1724.",
+      "fr": "Citron et tonic 1724."
     },
     "price": 10,
     "category": "gins",
@@ -394,11 +506,15 @@
     "id": "gin-ada23",
     "name": {
       "en": "Adamus Signature 2023",
-      "pt": "Adamus Signature 2023"
+      "pt": "Adamus Signature 2023",
+      "es": "Adamus Signature 2023",
+      "fr": "Adamus Signature 2023"
     },
     "description": {
       "en": "Lemon, 1724 tonic.",
-      "pt": "Limão, tónica 1724."
+      "pt": "Limão, tónica 1724.",
+      "es": "Limón y tónica 1724.",
+      "fr": "Citron et tonic 1724."
     },
     "price": 13,
     "category": "gins",
@@ -409,11 +525,15 @@
     "id": "gin-ada21",
     "name": {
       "en": "Adamus Signature 2021",
-      "pt": "Adamus Signature 2021"
+      "pt": "Adamus Signature 2021",
+      "es": "Adamus Signature 2021",
+      "fr": "Adamus Signature 2021"
     },
     "description": {
       "en": "Lemon, 1724 tonic (LAST UNITS).",
-      "pt": "Limão, tónica 1724 ÚLTIMAS UNIDADES."
+      "pt": "Limão, tónica 1724 ÚLTIMAS UNIDADES.",
+      "es": "Limón y tónica 1724. ÚLTIMAS UNIDADES.",
+      "fr": "Citron et tonic 1724. DERNIÈRES UNITÉS."
     },
     "price": 18,
     "category": "gins",
@@ -424,11 +544,15 @@
     "id": "gin-eng",
     "name": {
       "en": "Engine",
-      "pt": "Engine"
+      "pt": "Engine",
+      "es": "Engine",
+      "fr": "Engine"
     },
     "description": {
       "en": "Lime, 1724 tonic.",
-      "pt": "Lima, tónica 1724."
+      "pt": "Lima, tónica 1724.",
+      "es": "Lima y tónica 1724.",
+      "fr": "Citron vert et tonic 1724."
     },
     "price": 10,
     "category": "gins",
@@ -439,11 +563,15 @@
     "id": "gin-nor",
     "name": {
       "en": "Nordés",
-      "pt": "Nordés"
+      "pt": "Nordés",
+      "es": "Nordés",
+      "fr": "Nordés"
     },
     "description": {
       "en": "Grape, bay leaf, Fever Tree Mediterranean tonic.",
-      "pt": "Uva, louro, tónica Fever Tree Mediterranean."
+      "pt": "Uva, louro, tónica Fever Tree Mediterranean.",
+      "es": "Uva, laurel y tónica Fever-Tree Mediterranean.",
+      "fr": "Raisin, laurier et tonic Fever-Tree Mediterranean."
     },
     "price": 9,
     "category": "gins",
@@ -454,11 +582,15 @@
     "id": "gin-hen",
     "name": {
       "en": "Hendricks",
-      "pt": "Hendricks"
+      "pt": "Hendricks",
+      "es": "Hendricks",
+      "fr": "Hendricks"
     },
     "description": {
       "en": "Cucumber, Fever Tree Indian tonic.",
-      "pt": "Pepino, tónica Fever Tree Indian."
+      "pt": "Pepino, tónica Fever Tree Indian.",
+      "es": "Pepino y tónica Fever-Tree Indian.",
+      "fr": "Concombre et tonic Fever-Tree Indian."
     },
     "price": 11,
     "category": "gins",
@@ -469,11 +601,15 @@
     "id": "gin-mon",
     "name": {
       "en": "Monkey 47",
-      "pt": "Monkey 47"
+      "pt": "Monkey 47",
+      "es": "Monkey 47",
+      "fr": "Monkey 47"
     },
     "description": {
       "en": "Lemon, 1724 tonic.",
-      "pt": "Limão, tónica 1724."
+      "pt": "Limão, tónica 1724.",
+      "es": "Limón y tónica 1724.",
+      "fr": "Citron et tonic 1724."
     },
     "price": 13,
     "category": "gins",
@@ -484,11 +620,15 @@
     "id": "gin-mar",
     "name": {
       "en": "Gin Mare",
-      "pt": "Gin Mare"
+      "pt": "Gin Mare",
+      "es": "Gin Mare",
+      "fr": "Gin Mare"
     },
     "description": {
       "en": "Basil, 1724 tonic.",
-      "pt": "Manjericão, tónica 1724."
+      "pt": "Manjericão, tónica 1724.",
+      "es": "Albahaca y tónica 1724.",
+      "fr": "Basilic et tonic 1724."
     },
     "price": 10,
     "category": "gins",
@@ -499,11 +639,15 @@
     "id": "gin-tri",
     "name": {
       "en": "Le Tribute",
-      "pt": "Le Tribute"
+      "pt": "Le Tribute",
+      "es": "Le Tribute",
+      "fr": "Le Tribute"
     },
     "description": {
       "en": "Lime, orange, 1724 tonic.",
-      "pt": "Lima, laranja, tónica 1724."
+      "pt": "Lima, laranja, tónica 1724.",
+      "es": "Lima, naranja y tónica 1724.",
+      "fr": "Citron vert, orange et tonic 1724."
     },
     "price": 10,
     "category": "gins",
@@ -514,11 +658,15 @@
     "id": "gin-bla",
     "name": {
       "en": "Black Pig",
-      "pt": "Black Pig"
+      "pt": "Black Pig",
+      "es": "Black Pig",
+      "fr": "Black Pig"
     },
     "description": {
       "en": "Lemon, juniper, Fever Tree Mediterranean tonic.",
-      "pt": "Limão, zimbro, tónica Fever Tree Mediterranean."
+      "pt": "Limão, zimbro, tónica Fever Tree Mediterranean.",
+      "es": "Limón, enebro y tónica Fever-Tree Mediterranean.",
+      "fr": "Citron, genièvre et tonic Fever-Tree Mediterranean."
     },
     "price": 10,
     "category": "gins",
@@ -529,11 +677,15 @@
     "id": "gin-sha",
     "name": {
       "en": "Sharish",
-      "pt": "Sharish"
+      "pt": "Sharish",
+      "es": "Sharish",
+      "fr": "Sharish"
     },
     "description": {
       "en": "Apple, Fever Tree Mediterranean tonic.",
-      "pt": "Maça, tónica Fever Tree Mediterranean."
+      "pt": "Maça, tónica Fever Tree Mediterranean.",
+      "es": "Manzana y tónica Fever-Tree Mediterranean.",
+      "fr": "Pomme et tonic Fever-Tree Mediterranean."
     },
     "price": 10,
     "category": "gins",
@@ -544,11 +696,15 @@
     "id": "gin-bee",
     "name": {
       "en": "Beefeater",
-      "pt": "Beefeater"
+      "pt": "Beefeater",
+      "es": "Beefeater",
+      "fr": "Beefeater"
     },
     "description": {
       "en": "Orange, lemon, Schweppes tonic.",
-      "pt": "Laranja, limão, tónica schweeps."
+      "pt": "Laranja, limão, tónica schweeps.",
+      "es": "Naranja, limón y tónica Schweppes.",
+      "fr": "Orange, citron et tonic Schweppes."
     },
     "price": 7,
     "category": "gins",
@@ -559,11 +715,15 @@
     "id": "gin-tan",
     "name": {
       "en": "Tanqueray",
-      "pt": "Tanqueray"
+      "pt": "Tanqueray",
+      "es": "Tanqueray",
+      "fr": "Tanqueray"
     },
     "description": {
       "en": "Lime, orange, Schweppes tonic.",
-      "pt": "Lima, laranja, tónica schweeps."
+      "pt": "Lima, laranja, tónica schweeps.",
+      "es": "Lima, naranja y tónica Schweppes.",
+      "fr": "Citron vert, orange et tonic Schweppes."
     },
     "price": 7,
     "category": "gins",
@@ -574,11 +734,15 @@
     "id": "gin-sev",
     "name": {
       "en": "Tanqueray Sevilla",
-      "pt": "Tanqueray Sevilla"
+      "pt": "Tanqueray Sevilla",
+      "es": "Tanqueray Sevilla",
+      "fr": "Tanqueray Sevilla"
     },
     "description": {
       "en": "Orange, Fever Tree Mediterranean tonic.",
-      "pt": "Laranja, tónica Fever Tree Mediterranean."
+      "pt": "Laranja, tónica Fever Tree Mediterranean.",
+      "es": "Naranja y tónica Fever-Tree Mediterranean.",
+      "fr": "Orange et tonic Fever-Tree Mediterranean."
     },
     "price": 9,
     "category": "gins",
@@ -589,11 +753,15 @@
     "id": "gin-tan-ten",
     "name": {
       "en": "Tanqueray Ten",
-      "pt": "Tanqueray Ten"
+      "pt": "Tanqueray Ten",
+      "es": "Tanqueray Ten",
+      "fr": "Tanqueray Ten"
     },
     "description": {
       "en": "Premium Tanqueray Gin.",
-      "pt": "Gin Tanqueray Premium."
+      "pt": "Gin Tanqueray Premium.",
+      "es": "Gin Tanqueray prémium.",
+      "fr": "Gin Tanqueray premium."
     },
     "price": 10,
     "category": "gins",
@@ -604,11 +772,15 @@
     "id": "gin-mar-mil",
     "name": {
       "en": "Martin Millers",
-      "pt": "Martin Millers"
+      "pt": "Martin Millers",
+      "es": "Martin Millers",
+      "fr": "Martin Millers"
     },
     "description": {
       "en": "Classic Gin.",
-      "pt": "Gin Clássico."
+      "pt": "Gin Clássico.",
+      "es": "Gin clásico.",
+      "fr": "Gin classique."
     },
     "price": 9,
     "category": "gins",
@@ -619,11 +791,15 @@
     "id": "whi-mac",
     "name": {
       "pt": "The Macallan 12 Double Cask Cherry Woak",
-      "en": "The Macallan 12 Double Cask Cherry Woak"
+      "en": "The Macallan 12 Double Cask Cherry Woak",
+      "es": "The Macallan 12 Double Cask Cherry Woak",
+      "fr": "The Macallan 12 Double Cask Cherry Woak"
     },
     "description": {
       "pt": "Whiskey Scotch Premium.",
-      "en": "Premium Scotch Whiskey."
+      "en": "Premium Scotch Whiskey.",
+      "es": "Whisky escocés prémium.",
+      "fr": "Whisky écossais premium."
     },
     "price": 15,
     "category": "whiskeys",
@@ -634,11 +810,15 @@
     "id": "whi-mac-15",
     "name": {
       "pt": "The Macallan 15 Double Cask",
-      "en": "The Macallan 15 Double Cask"
+      "en": "The Macallan 15 Double Cask",
+      "es": "The Macallan 15 Double Cask",
+      "fr": "The Macallan 15 Double Cask"
     },
     "description": {
       "pt": "Whiskey Scotch Premium.",
-      "en": "Premium Scotch Whiskey."
+      "en": "Premium Scotch Whiskey.",
+      "es": "Whisky escocés prémium.",
+      "fr": "Whisky écossais premium."
     },
     "price": 30,
     "category": "whiskeys",
@@ -649,11 +829,15 @@
     "id": "whi-jac",
     "name": {
       "en": "Jack Daniel's",
-      "pt": "Jack Daniel's"
+      "pt": "Jack Daniel's",
+      "es": "Jack Daniel's",
+      "fr": "Jack Daniel's"
     },
     "description": {
       "en": "Tennessee Whiskey (Bottle 70€).",
-      "pt": "Whiskey Tennessee (Garrafa 70€)."
+      "pt": "Whiskey Tennessee (Garrafa 70€).",
+      "es": "Whiskey de Tennessee (botella 70 €).",
+      "fr": "Whiskey du Tennessee (bouteille 70 €)."
     },
     "price": 7,
     "category": "whiskeys",
@@ -664,11 +848,15 @@
     "id": "whi-jac-a",
     "name": {
       "en": "Jack Daniel's Flavors",
-      "pt": "Jack Daniel's Apple/Fire/Cinnamon"
+      "pt": "Jack Daniel's Apple/Fire/Cinnamon",
+      "es": "Jack Daniel's Apple/Fire/Cinnamon",
+      "fr": "Jack Daniel's Apple/Fire/Cinnamon"
     },
     "description": {
       "en": "Apple, Fire or Cinnamon (Bottle 70€).",
-      "pt": "Apple, Fire ou Cinnamon (Garrafa 70€)."
+      "pt": "Apple, Fire ou Cinnamon (Garrafa 70€).",
+      "es": "Apple, Fire o Cinnamon (botella 70 €).",
+      "fr": "Apple, Fire ou Cinnamon (bouteille 70 €)."
     },
     "price": 7,
     "category": "whiskeys",
@@ -679,11 +867,15 @@
     "id": "whi-jac-s",
     "name": {
       "en": "Jack Daniel's Single Barrel",
-      "pt": "Jack Daniel's Single Barrel"
+      "pt": "Jack Daniel's Single Barrel",
+      "es": "Jack Daniel's Single Barrel",
+      "fr": "Jack Daniel's Single Barrel"
     },
     "description": {
       "en": "Bottle 120€.",
-      "pt": "Garrafa 120€."
+      "pt": "Garrafa 120€.",
+      "es": "Botella 120€.",
+      "fr": "Bouteille 120€."
     },
     "price": 12,
     "category": "whiskeys",
@@ -694,11 +886,15 @@
     "id": "whi-car",
     "name": {
       "en": "Cardhu",
-      "pt": "Carduh"
+      "pt": "Carduh",
+      "es": "Carduh",
+      "fr": "Carduh"
     },
     "description": {
       "en": "Single Malt (Bottle 110€).",
-      "pt": "Single Malt (Garrafa 110€)."
+      "pt": "Single Malt (Garrafa 110€).",
+      "es": "Single malt (botella 110 €).",
+      "fr": "Single malt (bouteille 110 €)."
     },
     "price": 11,
     "category": "whiskeys",
@@ -709,11 +905,15 @@
     "id": "whi-jam",
     "name": {
       "en": "Jameson",
-      "pt": "Jameson"
+      "pt": "Jameson",
+      "es": "Jameson",
+      "fr": "Jameson"
     },
     "description": {
       "en": "Irish Whiskey (Bottle 60€).",
-      "pt": "Whiskey Irlandês (Garrafa 60€)."
+      "pt": "Whiskey Irlandês (Garrafa 60€).",
+      "es": "Whiskey irlandés (botella 60 €).",
+      "fr": "Whiskey irlandais (bouteille 60 €)."
     },
     "price": 6.5,
     "category": "whiskeys",
@@ -724,11 +924,15 @@
     "id": "whi-jam-b",
     "name": {
       "en": "Jameson Black Barrel",
-      "pt": "Jameson Black Barrel"
+      "pt": "Jameson Black Barrel",
+      "es": "Jameson Black Barrel",
+      "fr": "Jameson Black Barrel"
     },
     "description": {
       "en": "Bottle 70€.",
-      "pt": "Garrafa 70€."
+      "pt": "Garrafa 70€.",
+      "es": "Botella 70€.",
+      "fr": "Bouteille 70€."
     },
     "price": 8,
     "category": "whiskeys",
@@ -739,11 +943,15 @@
     "id": "whi-joh-r",
     "name": {
       "en": "Johnnie Walker Red Label",
-      "pt": "Johnnie Walker Red Label"
+      "pt": "Johnnie Walker Red Label",
+      "es": "Johnnie Walker Red Label",
+      "fr": "Johnnie Walker Red Label"
     },
     "description": {
       "en": "Bottle 60€.",
-      "pt": "Garrafa 60€."
+      "pt": "Garrafa 60€.",
+      "es": "Botella 60€.",
+      "fr": "Bouteille 60€."
     },
     "price": 6.5,
     "category": "whiskeys",
@@ -754,11 +962,15 @@
     "id": "whi-joh-b",
     "name": {
       "en": "Johnnie Walker Black Label",
-      "pt": "Johnnie Walker Black Label"
+      "pt": "Johnnie Walker Black Label",
+      "es": "Johnnie Walker Black Label",
+      "fr": "Johnnie Walker Black Label"
     },
     "description": {
       "en": "Bottle 75€.",
-      "pt": "Garrafa 75€."
+      "pt": "Garrafa 75€.",
+      "es": "Botella 75€.",
+      "fr": "Bouteille 75€."
     },
     "price": 8,
     "category": "whiskeys",
@@ -769,11 +981,15 @@
     "id": "whi-dew-8",
     "name": {
       "en": "Dewar's 8 Years",
-      "pt": "Dewar's 8 Anos"
+      "pt": "Dewar's 8 Anos",
+      "es": "Dewar’s 8 Años",
+      "fr": "Dewar’s 8 Ans"
     },
     "description": {
       "en": "Bottle 65€.",
-      "pt": "Garrafa 65€."
+      "pt": "Garrafa 65€.",
+      "es": "Botella 65€.",
+      "fr": "Bouteille 65€."
     },
     "price": 7,
     "category": "whiskeys",
@@ -784,11 +1000,15 @@
     "id": "whi-dew-15",
     "name": {
       "en": "Dewar's 15 Years",
-      "pt": "Dewar's 15 Anos"
+      "pt": "Dewar's 15 Anos",
+      "es": "Dewar’s 15 Años",
+      "fr": "Dewar’s 15 Ans"
     },
     "description": {
       "en": "Bottle 90€.",
-      "pt": "Garrafa 90€."
+      "pt": "Garrafa 90€.",
+      "es": "Botella 90€.",
+      "fr": "Bouteille 90€."
     },
     "price": 10,
     "category": "whiskeys",
@@ -799,11 +1019,15 @@
     "id": "vod-mix",
     "name": {
       "en": "Mix Red Bull / Premium Tonic",
-      "pt": "MIX RED BULL / TÓNICA PREMIUM"
+      "pt": "MIX RED BULL / TÓNICA PREMIUM",
+      "es": "RED BULL / TÓNICA PRÉMIUM",
+      "fr": "RED BULL / TONIC PREMIUM"
     },
     "description": {
       "en": "Mixer for your vodka.",
-      "pt": "Mixer para a sua vodka."
+      "pt": "Mixer para a sua vodka.",
+      "es": "Mezclador para tu vodka.",
+      "fr": "Accompagnement pour votre vodka."
     },
     "price": 1,
     "category": "vodkas"
@@ -812,11 +1036,15 @@
     "id": "vod-gre",
     "name": {
       "en": "Grey Goose",
-      "pt": "Grey Goose"
+      "pt": "Grey Goose",
+      "es": "Grey Goose",
+      "fr": "Grey Goose"
     },
     "description": {
       "en": "Premium French Vodka (Bottle 90€).",
-      "pt": "Vodka Francesa Premium (Garrafa 90€)."
+      "pt": "Vodka Francesa Premium (Garrafa 90€).",
+      "es": "Vodka francesa prémium (botella 90 €).",
+      "fr": "Vodka française premium (bouteille 90 €)."
     },
     "price": 10,
     "category": "vodkas",
@@ -827,11 +1055,15 @@
     "id": "vod-cir",
     "name": {
       "en": "Ciroc",
-      "pt": "Ciroc"
+      "pt": "Ciroc",
+      "es": "Ciroc",
+      "fr": "Ciroc"
     },
     "description": {
       "en": "Bottle 80€.",
-      "pt": "Garrafa 80€."
+      "pt": "Garrafa 80€.",
+      "es": "Botella 80€.",
+      "fr": "Bouteille 80€."
     },
     "price": 8,
     "category": "vodkas",
@@ -842,11 +1074,15 @@
     "id": "vod-bel",
     "name": {
       "en": "Belvedere",
-      "pt": "Belvedere"
+      "pt": "Belvedere",
+      "es": "Belvedere",
+      "fr": "Belvedere"
     },
     "description": {
       "en": "Bottle 70cl 90€ | Bottle 3L 600€.",
-      "pt": "Garrafa 70cl 90€ | Garrafa 3L 600€."
+      "pt": "Garrafa 70cl 90€ | Garrafa 3L 600€.",
+      "es": "Botella de 70 cl: 90 € | Botella de 3 l: 600 €.",
+      "fr": "Bouteille de 70 cl : 90 € | Bouteille de 3 l : 600 €."
     },
     "price": 10,
     "category": "vodkas",
@@ -857,11 +1093,15 @@
     "id": "vod-pra",
     "name": {
       "en": "Pravda",
-      "pt": "Pravda"
+      "pt": "Pravda",
+      "es": "Pravda",
+      "fr": "Pravda"
     },
     "description": {
       "en": "Bottle 1.75L.",
-      "pt": "Garrafa 1.75L."
+      "pt": "Garrafa 1.75L.",
+      "es": "Botella 1.75L.",
+      "fr": "Bouteille 1.75L."
     },
     "price": 200,
     "category": "vodkas",
@@ -872,11 +1112,15 @@
     "id": "vod-thr",
     "name": {
       "en": "Three Sixty",
-      "pt": "Three Sixty"
+      "pt": "Three Sixty",
+      "es": "Three Sixty",
+      "fr": "Three Sixty"
     },
     "description": {
       "en": "Bottle 60€.",
-      "pt": "Garrafa 60€."
+      "pt": "Garrafa 60€.",
+      "es": "Botella 60€.",
+      "fr": "Bouteille 60€."
     },
     "price": 6,
     "category": "vodkas",
@@ -887,11 +1131,15 @@
     "id": "vod-abs",
     "name": {
       "en": "Absolut",
-      "pt": "Absolut"
+      "pt": "Absolut",
+      "es": "Absolut",
+      "fr": "Absolut"
     },
     "description": {
       "en": "Bottle 60€.",
-      "pt": "Garrafa 60€."
+      "pt": "Garrafa 60€.",
+      "es": "Botella 60€.",
+      "fr": "Bouteille 60€."
     },
     "price": 6,
     "category": "vodkas",
@@ -902,11 +1150,15 @@
     "id": "vod-bel-42",
     "name": {
       "en": "Bellow 42",
-      "pt": "Bellow 42"
+      "pt": "Bellow 42",
+      "es": "Bellow 42",
+      "fr": "Bellow 42"
     },
     "description": {
       "en": "Bottle 60€.",
-      "pt": "Garrafa 60€."
+      "pt": "Garrafa 60€.",
+      "es": "Botella 60€.",
+      "fr": "Bouteille 60€."
     },
     "price": 6,
     "category": "vodkas",
@@ -917,11 +1169,15 @@
     "id": "foo-piz",
     "name": {
       "en": "4 Mini Pizzas",
-      "pt": "4 Mini Pizzas"
+      "pt": "4 Mini Pizzas",
+      "es": "4 Mini Pizzas",
+      "fr": "4 Mini Pizzas"
     },
     "description": {
       "en": "Cheese, ham and oregano.",
-      "pt": "queijo, fiambre e orégãos"
+      "pt": "queijo, fiambre e orégãos",
+      "es": "Queso, jamón cocido y orégano.",
+      "fr": "Fromage, jambon blanc et origan."
     },
     "price": 5,
     "category": "food",
@@ -932,11 +1188,15 @@
     "id": "foo-gel",
     "name": {
       "en": "Ice Cream Cone",
-      "pt": "Gelado Cone"
+      "pt": "Gelado Cone",
+      "es": "Helado de Cucurucho",
+      "fr": "Glace en Cornet"
     },
     "description": {
       "en": "Cream/strawberry/chocolate.",
-      "pt": "nata/morango/chocolate e nata"
+      "pt": "nata/morango/chocolate e nata",
+      "es": "Nata, fresa o chocolate con nata.",
+      "fr": "Crème, fraise ou chocolat et crème."
     },
     "price": 1.5,
     "category": "food"
@@ -945,11 +1205,15 @@
     "id": "foo-tos",
     "name": {
       "en": "Toastie",
-      "pt": "Tosta Mista"
+      "pt": "Tosta Mista",
+      "es": "Tostada de Jamón y Queso",
+      "fr": "Croque Jambon-Fromage"
     },
     "description": {
       "en": "Cheese, ham, butter and oregano.",
-      "pt": "queijo, fiambre, manteiga e orégãos"
+      "pt": "queijo, fiambre, manteiga e orégãos",
+      "es": "Queso, jamón cocido, mantequilla y orégano.",
+      "fr": "Fromage, jambon blanc, beurre et origan."
     },
     "price": 4,
     "category": "food"
@@ -958,11 +1222,15 @@
     "id": "foo-tos-atu",
     "name": {
       "en": "Tuna Toastie",
-      "pt": "Tosta de Atum"
+      "pt": "Tosta de Atum",
+      "es": "Tostada de Atún",
+      "fr": "Tartine Grillée au Thon"
     },
     "description": {
       "en": "Rustic toasted bread, melted cheese, tuna paste, butter and oregano.",
-      "pt": "Pão rústico bem tostado, queijo derretido, pasta de atum, manteiga e oregãos."
+      "pt": "Pão rústico bem tostado, queijo derretido, pasta de atum, manteiga e oregãos.",
+      "es": "Pan rústico tostado, queso fundido, pasta de atún, mantequilla y orégano.",
+      "fr": "Pain rustique grillé, fromage fondu, tartinade de thon, beurre et origan."
     },
     "price": 5,
     "category": "food"
@@ -971,11 +1239,15 @@
     "id": "foo-tos-fra",
     "name": {
       "en": "Chicken Toastie",
-      "pt": "Tosta de Frango"
+      "pt": "Tosta de Frango",
+      "es": "Tostada de Pollo",
+      "fr": "Tartine Grillée au Poulet"
     },
     "description": {
       "en": "Rustic toasted bread, melted cheese, chicken paste, butter and oregano.",
-      "pt": "Pão rústico bem tostado, queijo derretido, pasta de frango, manteiga e oregãos."
+      "pt": "Pão rústico bem tostado, queijo derretido, pasta de frango, manteiga e oregãos.",
+      "es": "Pan rústico tostado, queso fundido, pasta de pollo, mantequilla y orégano.",
+      "fr": "Pain rustique grillé, fromage fondu, tartinade de poulet, beurre et origan."
     },
     "price": 5,
     "category": "food"
@@ -984,11 +1256,15 @@
     "id": "win-maz",
     "name": {
       "en": "Mazouco Douro",
-      "pt": "Mazouco Douro"
+      "pt": "Mazouco Douro",
+      "es": "Mazouco Douro",
+      "fr": "Mazouco Douro"
     },
     "description": {
       "en": "Red/White.",
-      "pt": "tinto/branco"
+      "pt": "tinto/branco",
+      "es": "Tinto/blanco",
+      "fr": "Rouge/blanc"
     },
     "price": 15,
     "category": "wine",
@@ -999,11 +1275,15 @@
     "id": "win-pla",
     "name": {
       "en": "Planura Alentejo",
-      "pt": "Planura Alentejo"
+      "pt": "Planura Alentejo",
+      "es": "Planura Alentejo",
+      "fr": "Planura Alentejo"
     },
     "description": {
       "en": "Red/White.",
-      "pt": "tinto/branco"
+      "pt": "tinto/branco",
+      "es": "Tinto/blanco",
+      "fr": "Rouge/blanc"
     },
     "price": 15,
     "category": "wine",
@@ -1014,11 +1294,15 @@
     "id": "win-mel",
     "name": {
       "en": "Mélange À Trois",
-      "pt": "Mélange À Trois"
+      "pt": "Mélange À Trois",
+      "es": "Mélange À Trois",
+      "fr": "Mélange À Trois"
     },
     "description": {
       "en": "Red/White.",
-      "pt": "tinto/branco"
+      "pt": "tinto/branco",
+      "es": "Tinto/blanco",
+      "fr": "Rouge/blanc"
     },
     "price": 20,
     "category": "wine",
@@ -1029,11 +1313,15 @@
     "id": "win-pap",
     "name": {
       "en": "Papa Figos",
-      "pt": "Papa Figos"
+      "pt": "Papa Figos",
+      "es": "Papa Figos",
+      "fr": "Papa Figos"
     },
     "description": {
       "en": "Red.",
-      "pt": "tinto"
+      "pt": "tinto",
+      "es": "Tinto",
+      "fr": "Rouge"
     },
     "price": 15,
     "category": "wine",
@@ -1044,11 +1332,15 @@
     "id": "win-cas",
     "name": {
       "en": "Casa de Santar",
-      "pt": "Casa de Santar"
+      "pt": "Casa de Santar",
+      "es": "Casa de Santar",
+      "fr": "Casa de Santar"
     },
     "description": {
       "en": "White.",
-      "pt": "branco"
+      "pt": "branco",
+      "es": "Blanco",
+      "fr": "Blanc"
     },
     "price": 15,
     "category": "wine",
@@ -1059,11 +1351,15 @@
     "id": "win-ade-b",
     "name": {
       "en": "Adega de Penalva 'BAGA'",
-      "pt": "Adega de Penalva 'BAGA'"
+      "pt": "Adega de Penalva 'BAGA'",
+      "es": "Adega de Penalva 'BAGA'",
+      "fr": "Adega de Penalva 'BAGA'"
     },
     "description": {
       "en": "Red.",
-      "pt": "tinto"
+      "pt": "tinto",
+      "es": "Tinto",
+      "fr": "Rouge"
     },
     "price": 15,
     "category": "wine",
@@ -1074,11 +1370,15 @@
     "id": "win-cai",
     "name": {
       "en": "Caiado",
-      "pt": "Caiado"
+      "pt": "Caiado",
+      "es": "Caiado",
+      "fr": "Caiado"
     },
     "description": {
       "en": "Red/White.",
-      "pt": "tinto/branco"
+      "pt": "tinto/branco",
+      "es": "Tinto/blanco",
+      "fr": "Rouge/blanc"
     },
     "price": 15,
     "category": "wine",
@@ -1089,11 +1389,15 @@
     "id": "win-ade-m",
     "name": {
       "en": "Adega Maior Reserva 2019",
-      "pt": "Adega Maior Reserva 2019"
+      "pt": "Adega Maior Reserva 2019",
+      "es": "Adega Maior Reserva 2019",
+      "fr": "Adega Maior Reserva 2019"
     },
     "description": {
       "en": "Red.",
-      "pt": "tinto"
+      "pt": "tinto",
+      "es": "Tinto",
+      "fr": "Rouge"
     },
     "price": 15,
     "category": "wine",
@@ -1104,11 +1408,15 @@
     "id": "win-ade-a",
     "name": {
       "en": "Adega Mayor Antão Vaz 2019",
-      "pt": "Adega Mayor Antão Vaz 2019"
+      "pt": "Adega Mayor Antão Vaz 2019",
+      "es": "Adega Mayor Antão Vaz 2019",
+      "fr": "Adega Mayor Antão Vaz 2019"
     },
     "description": {
       "en": "White.",
-      "pt": "branco"
+      "pt": "branco",
+      "es": "Blanco",
+      "fr": "Blanc"
     },
     "price": 20,
     "category": "wine",
@@ -1119,11 +1427,15 @@
     "id": "win-champ-tai",
     "name": {
       "pt": "Champagne Taittinger",
-      "en": "Taittinger Champagne"
+      "en": "Taittinger Champagne",
+      "es": "Champagne Taittinger",
+      "fr": "Champagne Taittinger"
     },
     "description": {
       "pt": "Champagne.",
-      "en": "Champagne."
+      "en": "Champagne.",
+      "es": "Champán.",
+      "fr": "Champagne."
     },
     "price": 100,
     "category": "wine",
@@ -1134,11 +1446,15 @@
     "id": "win-barca-2015",
     "name": {
       "pt": "Barca Velha 2015",
-      "en": "Barca Velha 2015"
+      "en": "Barca Velha 2015",
+      "es": "Barca Velha 2015",
+      "fr": "Barca Velha 2015"
     },
     "description": {
       "pt": "Tinto.",
-      "en": "Red wine."
+      "en": "Red wine.",
+      "es": "Tinto.",
+      "fr": "Rouge."
     },
     "price": 2200,
     "category": "wine",
@@ -1149,11 +1465,15 @@
     "id": "win-santar-curt",
     "name": {
       "pt": "Casa de Santar Curtimenta",
-      "en": "Casa de Santar Curtimenta"
+      "en": "Casa de Santar Curtimenta",
+      "es": "Casa de Santar Curtimenta",
+      "fr": "Casa de Santar Curtimenta"
     },
     "description": {
       "pt": "Branco.",
-      "en": "White wine."
+      "en": "White wine.",
+      "es": "Blanco.",
+      "fr": "Blanc."
     },
     "price": 30,
     "category": "wine"
@@ -1162,26 +1482,34 @@
     "id": "bee-gui",
     "name": {
       "en": "Guinness",
-      "pt": "Guinness"
+      "pt": "Guinness",
+      "es": "Guinness",
+      "fr": "Guinness"
     },
     "description": {
       "en": "44cl.",
-      "pt": "44cl"
+      "pt": "44cl",
+      "es": "44cl",
+      "fr": "44cl"
     },
     "price": 5,
     "category": "beers",
-    "image": "images/guinness.webp",
-    "imageKind": "supplied"
+    "image": "images/guinness-real.webp",
+    "imageKind": "photo"
   },
   {
     "id": "bee-fin-sag",
     "name": {
       "en": "Fino Sagres",
-      "pt": "Fino Sagres"
+      "pt": "Fino Sagres",
+      "es": "Caña Sagres",
+      "fr": "Bière Pression Sagres"
     },
     "description": {
       "en": "20cl.",
-      "pt": "20cl"
+      "pt": "20cl",
+      "es": "20cl",
+      "fr": "20cl"
     },
     "price": 1.5,
     "category": "beers",
@@ -1192,26 +1520,34 @@
     "id": "bee-fin-hei",
     "name": {
       "en": "Fino Heineken",
-      "pt": "Fino Heineken"
+      "pt": "Fino Heineken",
+      "es": "Caña Heineken",
+      "fr": "Bière Pression Heineken"
     },
     "description": {
       "en": "25cl.",
-      "pt": "25cl"
+      "pt": "25cl",
+      "es": "25cl",
+      "fr": "25cl"
     },
     "price": 1.8,
     "category": "beers",
-    "image": "images/heineken.webp",
-    "imageKind": "supplied"
+    "image": "images/heineken-fino-real.webp",
+    "imageKind": "photo"
   },
   {
     "id": "bee-can-sag",
     "name": {
       "en": "Sagres Mug",
-      "pt": "Caneca Sagres"
+      "pt": "Caneca Sagres",
+      "es": "Jarra Sagres",
+      "fr": "Chope Sagres"
     },
     "description": {
       "en": "40cl.",
-      "pt": "40cl"
+      "pt": "40cl",
+      "es": "40cl",
+      "fr": "40cl"
     },
     "price": 2.5,
     "category": "beers",
@@ -1222,11 +1558,15 @@
     "id": "bee-can-hei",
     "name": {
       "en": "Heineken Mug",
-      "pt": "Caneca Heineken"
+      "pt": "Caneca Heineken",
+      "es": "Jarra Heineken",
+      "fr": "Chope Heineken"
     },
     "description": {
       "en": "50cl.",
-      "pt": "50cl"
+      "pt": "50cl",
+      "es": "50cl",
+      "fr": "50cl"
     },
     "price": 3,
     "category": "beers",
@@ -1237,11 +1577,15 @@
     "id": "bee-hei",
     "name": {
       "en": "Heineken Bottle",
-      "pt": "Heineken"
+      "pt": "Heineken",
+      "es": "Heineken",
+      "fr": "Heineken"
     },
     "description": {
       "en": "25cl bottle.",
-      "pt": "25cl garrafa"
+      "pt": "25cl garrafa",
+      "es": "25cl botella",
+      "fr": "25cl bouteille"
     },
     "price": 1.8,
     "category": "beers",
@@ -1252,11 +1596,15 @@
     "id": "bee-sup",
     "name": {
       "en": "Super Bock",
-      "pt": "Super Bock"
+      "pt": "Super Bock",
+      "es": "Super Bock",
+      "fr": "Super Bock"
     },
     "description": {
       "en": "33cl bottle.",
-      "pt": "33cl garrafa"
+      "pt": "33cl garrafa",
+      "es": "33cl botella",
+      "fr": "33cl bouteille"
     },
     "price": 2,
     "category": "beers",
@@ -1267,11 +1615,15 @@
     "id": "bee-mae",
     "name": {
       "en": "Maestra Dark Beer",
-      "pt": "Maestra Cerveja Preta"
+      "pt": "Maestra Cerveja Preta",
+      "es": "Maestra Cerveza Negra",
+      "fr": "Maestra Bière Brune"
     },
     "description": {
       "en": "33cl bottle.",
-      "pt": "33cl garrafa"
+      "pt": "33cl garrafa",
+      "es": "33cl botella",
+      "fr": "33cl bouteille"
     },
     "price": 2,
     "category": "beers",
@@ -1282,11 +1634,15 @@
     "id": "bee-san",
     "name": {
       "en": "San Miguel Fresca",
-      "pt": "San Miguel Fresca"
+      "pt": "San Miguel Fresca",
+      "es": "San Miguel Fresca",
+      "fr": "San Miguel Fresca"
     },
     "description": {
       "en": "33cl bottle.",
-      "pt": "33cl garrafa"
+      "pt": "33cl garrafa",
+      "es": "33cl botella",
+      "fr": "33cl bouteille"
     },
     "price": 2.5,
     "category": "beers",
@@ -1297,11 +1653,15 @@
     "id": "bee-des",
     "name": {
       "en": "Desperados",
-      "pt": "Desperados"
+      "pt": "Desperados",
+      "es": "Desperados",
+      "fr": "Desperados"
     },
     "description": {
       "en": "33cl bottle.",
-      "pt": "33cl garrafa"
+      "pt": "33cl garrafa",
+      "es": "33cl botella",
+      "fr": "33cl bouteille"
     },
     "price": 2.5,
     "category": "beers",
@@ -1312,11 +1672,15 @@
     "id": "san-tin",
     "name": {
       "en": "Red Sangria",
-      "pt": "Tinta"
+      "pt": "Tinta",
+      "es": "Sangría Tinta",
+      "fr": "Sangria Rouge"
     },
     "description": {
       "en": "Jack Fire, lime juice, sugar, red wine, orange and lemon, cinnamon, 7up.",
-      "pt": "Jack Fire, sumo de lima, açúcar, vinho tinto, gomos de laranja e limão, pau de canela, 7up"
+      "pt": "Jack Fire, sumo de lima, açúcar, vinho tinto, gomos de laranja e limão, pau de canela, 7up",
+      "es": "Jack Fire, zumo de lima, azúcar, vino tinto, gajos de naranja y limón, canela en rama y 7UP.",
+      "fr": "Jack Fire, jus de citron vert, sucre, vin rouge, quartiers d’orange et de citron, bâton de cannelle et 7UP."
     },
     "price": 15,
     "category": "sangrias",
@@ -1327,11 +1691,15 @@
     "id": "san-bra",
     "name": {
       "en": "White Sangria",
-      "pt": "Branca"
+      "pt": "Branca",
+      "es": "Sangría Blanca",
+      "fr": "Sangria Blanche"
     },
     "description": {
       "en": "Jack Fire, lime juice, sugar, white wine, orange and lemon, cinnamon, 7up.",
-      "pt": "Jack Fire, sumo de lima, açúcar, vinho branco, gomos de laranja e limão, pau de canela, 7up"
+      "pt": "Jack Fire, sumo de lima, açúcar, vinho branco, gomos de laranja e limão, pau de canela, 7up",
+      "es": "Jack Fire, zumo de lima, azúcar, vino blanco, gajos de naranja y limón, canela en rama y 7UP.",
+      "fr": "Jack Fire, jus de citron vert, sucre, vin blanc, quartiers d’orange et de citron, bâton de cannelle et 7UP."
     },
     "price": 15,
     "category": "sangrias",
@@ -1342,11 +1710,15 @@
     "id": "san-esp-mar",
     "name": {
       "en": "Sparkling Passionfruit Sangria",
-      "pt": "Espumante e Maracujá"
+      "pt": "Espumante e Maracujá",
+      "es": "Espumoso y Maracuyá",
+      "fr": "Pétillant et Passion"
     },
     "description": {
       "en": "Sparkling wine, passionfruit puree, lime juice and passionfruit.",
-      "pt": "Espumante, puré de maracujá, sumo de lima e maracujá"
+      "pt": "Espumante, puré de maracujá, sumo de lima e maracujá",
+      "es": "Vino espumoso, puré de maracuyá, zumo de lima y maracuyá.",
+      "fr": "Vin pétillant, purée de fruit de la passion, jus de citron vert et fruit de la passion."
     },
     "price": 20,
     "category": "sangrias"
@@ -1355,11 +1727,15 @@
     "id": "san-esp-mor",
     "name": {
       "en": "Sparkling Strawberry Sangria",
-      "pt": "Espumante e Morango"
+      "pt": "Espumante e Morango",
+      "es": "Espumoso y Fresa",
+      "fr": "Pétillant et Fraise"
     },
     "description": {
       "en": "Sparkling wine, strawberry puree, lime juice and passionfruit.",
-      "pt": "Espumante, puré de morango, sumo de lima e maracujá"
+      "pt": "Espumante, puré de morango, sumo de lima e maracujá",
+      "es": "Vino espumoso, puré de fresa, zumo de lima y maracuyá.",
+      "fr": "Vin pétillant, purée de fraise, jus de citron vert et fruit de la passion."
     },
     "price": 20,
     "category": "sangrias"
@@ -1368,11 +1744,15 @@
     "id": "sho-cas",
     "name": {
       "en": "House Shot",
-      "pt": "Shot da Casa"
+      "pt": "Shot da Casa",
+      "es": "Chupito de la Casa",
+      "fr": "Shot Maison"
     },
     "description": {
       "en": "House special vodka with fruit puree.",
-      "pt": "vodka de serviço, puré de maracujá ou morango"
+      "pt": "vodka de serviço, puré de maracujá ou morango",
+      "es": "Vodka de la casa, puré de maracuyá o fresa.",
+      "fr": "Vodka de la maison, purée de fruit de la passion ou de fraise."
     },
     "price": 2,
     "category": "shots"
@@ -1381,11 +1761,15 @@
     "id": "sho-ser",
     "name": {
       "en": "Service Shot",
-      "pt": "Shot"
+      "pt": "Shot",
+      "es": "Chupito",
+      "fr": "Shot"
     },
     "description": {
       "en": "Service drinks.",
-      "pt": "bebidas de serviço"
+      "pt": "bebidas de serviço",
+      "es": "Bebidas de la casa.",
+      "fr": "Spiritueux de la maison."
     },
     "price": 2.5,
     "category": "shots"
@@ -1394,11 +1778,15 @@
     "id": "sho-pre",
     "name": {
       "en": "Premium Shot",
-      "pt": "Shot Premium"
+      "pt": "Shot Premium",
+      "es": "Chupito Prémium",
+      "fr": "Shot Premium"
     },
     "description": {
       "en": "Premium drinks.",
-      "pt": "bebidas premium"
+      "pt": "bebidas premium",
+      "es": "Bebidas prémium.",
+      "fr": "Spiritueux premium."
     },
     "price": 5,
     "category": "shots"
@@ -1406,16 +1794,24 @@
   {
     "id": "cock-vod-mar",
     "name": {
-      "pt": "Vodka Maracujá",
-      "en": "Passionfruit Vodka"
+      "pt": "Vodka Tropical",
+      "en": "Vodka Tropical",
+      "es": "Vodka Tropical",
+      "fr": "Vodka Tropical"
     },
     "description": {
       "pt": "Vodka, maracujá, sumo de lima, açúcar e soda.",
-      "en": "Vodka, passionfruit, lime juice, sugar and soda."
+      "en": "Vodka, passionfruit, lime juice, sugar and soda.",
+      "es": "Vodka, maracuyá, zumo de lima, azúcar y soda.",
+      "fr": "Vodka, fruit de la passion, jus de citron vert, sucre et eau gazeuse."
     },
     "price": 7,
     "category": "cocktails",
-    "image": "images/generated/passionfruit-vodka.webp",
-    "imageKind": "illustration"
+    "image": "images/vodka-tropical.webp",
+    "imageKind": "photo",
+    "aliases": [
+      "Vodka Maracujá",
+      "Passionfruit Vodka"
+    ]
   }
 ]
