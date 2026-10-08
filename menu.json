@@ -203,10 +203,10 @@
       "fr": "Gin Tropical"
     },
     "description": {
-      "pt": "Gin, maracujá, sumo de lima, açúcar e tónica.",
-      "en": "Gin, passionfruit, lime juice, sugar and tonic.",
-      "es": "Gin, maracuyá, zumo de lima, azúcar y tónica.",
-      "fr": "Gin, fruit de la passion, jus de citron vert, sucre et tonic."
+      "pt": "Gin, Red Bull Tropical.",
+      "en": "Gin, Red Bull Tropical.",
+      "es": "Gin, Red Bull Tropical.",
+      "fr": "Gin, Red Bull Tropical."
     },
     "price": 7,
     "category": "cocktails",
@@ -1800,10 +1800,10 @@
       "fr": "Vodka Tropical"
     },
     "description": {
-      "pt": "Vodka, maracujá, sumo de lima, açúcar e soda.",
-      "en": "Vodka, passionfruit, lime juice, sugar and soda.",
-      "es": "Vodka, maracuyá, zumo de lima, azúcar y soda.",
-      "fr": "Vodka, fruit de la passion, jus de citron vert, sucre et eau gazeuse."
+      "pt": "Vodka, Red Bull Tropical.",
+      "en": "Vodka, Red Bull Tropical.",
+      "es": "Vodka, Red Bull Tropical.",
+      "fr": "Vodka, Red Bull Tropical."
     },
     "price": 7,
     "category": "cocktails",
