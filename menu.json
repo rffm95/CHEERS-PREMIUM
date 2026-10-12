@@ -138,25 +138,6 @@
     "imageKind": "illustration"
   },
   {
-    "id": "cock-haz",
-    "name": {
-      "en": "Hazelnut Espresso",
-      "pt": "Hazelnut Espresso",
-      "es": "Hazelnut Espresso",
-      "fr": "Hazelnut Espresso"
-    },
-    "description": {
-      "en": "Baileys, hazelnut liqueur, coffee, vodka, cinnamon, sugar.",
-      "pt": "Baileys, licor de avelã, café, vodka, canela e açúcar.",
-      "es": "Baileys, licor de avellana, café, vodka, canela y azúcar.",
-      "fr": "Baileys, liqueur de noisette, café, vodka, cannelle et sucre."
-    },
-    "price": 10,
-    "category": "cocktails",
-    "image": "images/generated/hazelnut-espresso.webp",
-    "imageKind": "illustration"
-  },
-  {
     "id": "cock-esp",
     "name": {
       "en": "Espresso Martini",
@@ -1253,6 +1234,23 @@
     "category": "food"
   },
   {
+    "id": "win-maos",
+    "name": {
+      "pt": "Mãos Douro",
+      "en": "Mãos Douro",
+      "es": "Mãos Douro",
+      "fr": "Mãos Douro"
+    },
+    "description": {
+      "pt": "Branco/tinto.",
+      "en": "White/red wine.",
+      "es": "Blanco/tinto.",
+      "fr": "Blanc/rouge."
+    },
+    "price": 25,
+    "category": "wine"
+  },
+  {
     "id": "win-maz",
     "name": {
       "en": "Mazouco Douro",
@@ -1437,7 +1435,7 @@
       "es": "Champán.",
       "fr": "Champagne."
     },
-    "price": 100,
+    "price": 85,
     "category": "wine",
     "image": "images/taittinger.webp",
     "imageKind": "supplied"
@@ -1593,25 +1591,6 @@
     "imageKind": "illustration"
   },
   {
-    "id": "bee-sup",
-    "name": {
-      "en": "Super Bock",
-      "pt": "Super Bock",
-      "es": "Super Bock",
-      "fr": "Super Bock"
-    },
-    "description": {
-      "en": "33cl bottle.",
-      "pt": "33cl garrafa",
-      "es": "33cl botella",
-      "fr": "33cl bouteille"
-    },
-    "price": 2,
-    "category": "beers",
-    "image": "images/generated/beer.webp",
-    "imageKind": "illustration"
-  },
-  {
     "id": "bee-mae",
     "name": {
       "en": "Maestra Dark Beer",
@@ -1628,25 +1607,6 @@
     "price": 2,
     "category": "beers",
     "image": "images/generated/dark-beer.webp",
-    "imageKind": "illustration"
-  },
-  {
-    "id": "bee-san",
-    "name": {
-      "en": "San Miguel Fresca",
-      "pt": "San Miguel Fresca",
-      "es": "San Miguel Fresca",
-      "fr": "San Miguel Fresca"
-    },
-    "description": {
-      "en": "33cl bottle.",
-      "pt": "33cl garrafa",
-      "es": "33cl botella",
-      "fr": "33cl bouteille"
-    },
-    "price": 2.5,
-    "category": "beers",
-    "image": "images/generated/beer.webp",
     "imageKind": "illustration"
   },
   {
