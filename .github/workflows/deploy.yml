@@ -16,6 +16,8 @@ concurrency:
 
 jobs:
   deploy:
+    # GitHub Pages is only enabled on CHEERS-PREMIUM; the cheersBar mirror is published by Netlify.
+    if: github.repository == 'rffm95/CHEERS-PREMIUM'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -27,9 +29,10 @@ jobs:
         run: |
           node --check app.js
           node --check i18n.js
+          node --check sw.js
           mkdir _site
-          cp index.html style.css app.js i18n.js menu.json .nojekyll _site/
-          cp -R images _site/images
+          cp index.html style.css app.js i18n.js menu.json manifest.webmanifest sw.js .nojekyll _site/
+          cp -R images icons _site/
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
