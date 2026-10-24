@@ -60,5 +60,5 @@ $('#install-accept').addEventListener('click',async()=>{const e=installEvent;$('
 $('#install-later').addEventListener('click',()=>$('#install-dialog').close());
 $('#install-ok').addEventListener('click',()=>$('#install-dialog').close());
 window.addEventListener('load',()=>setTimeout(offerInstall,2500));
-if('serviceWorker' in navigator&&location.protocol!=='file:')window.addEventListener('load',()=>navigator.serviceWorker.register('/sw.js').catch(()=>{}));
+if('serviceWorker' in navigator&&location.protocol!=='file:')window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));
 loadMenu();
