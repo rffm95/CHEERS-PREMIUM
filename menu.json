@@ -192,11 +192,26 @@
     "price": 7,
     "category": "cocktails",
     "image": "images/gin-tropical.webp",
-    "imageKind": "photo",
-    "aliases": [
-      "Passionfruit Gin",
-      "Gin Maracujá"
-    ]
+    "imageKind": "photo"
+  },
+  {
+    "id": "cock-gin-mar",
+    "name": {
+      "pt": "Gin Maracujá",
+      "en": "Passionfruit Gin",
+      "es": "Gin de Maracuyá",
+      "fr": "Gin Passion"
+    },
+    "description": {
+      "pt": "Gin, maracujá, sumo de lima, açúcar e água tónica.",
+      "en": "Gin, passionfruit, lime juice, sugar and tonic water.",
+      "es": "Gin, maracuyá, zumo de lima, azúcar y agua tónica.",
+      "fr": "Gin, fruit de la passion, jus de citron vert, sucre et eau tonique."
+    },
+    "price": 7,
+    "category": "cocktails",
+    "image": "images/generated/passionfruit-gin.webp",
+    "imageKind": "illustration"
   },
   {
     "id": "cock-mac",

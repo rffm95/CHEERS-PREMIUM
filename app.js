@@ -9,7 +9,7 @@ const order=['cocktails','beers','packs','gins','whiskeys','vodkas','shots','san
 // Editorial choices, not popularity or profitability rankings. Modify only confirmed IDs.
 const featuredIds=['cock-moj','cock-gin','cock-vod-mar'];
 const sharingIds=['pack-reg-hei','pack-reg-sag','pack-sho-cas'];
-const ingredientGroups={mint:['cock-moj','cock-moj-mar'],passion:['cock-moj-mar','cock-por','mock-rea','mock-pas'],coffee:['cock-esp'],coconut:['cock-pin','mock-vir'],zero:[]};
+const ingredientGroups={mint:['cock-moj','cock-moj-mar'],passion:['cock-gin-mar','cock-moj-mar','cock-por','mock-rea','mock-pas'],coffee:['cock-esp'],coconut:['cock-pin','mock-vir'],zero:[]};
 const money=p=>new Intl.NumberFormat({pt:'pt-PT',en:'en-IE',es:'es-ES',fr:'fr-FR'}[lang],{style:'currency',currency:'EUR',minimumFractionDigits:Number.isInteger(p)?0:2}).format(p);
 function name(p){return p.name[lang]||p.name.pt;}
 function description(p){return p.description[lang]||p.description.pt;}
