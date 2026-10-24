@@ -95,6 +95,16 @@ const translations={
 'mojito-tag':['HORTELÃ / LIMA','MINT / LIME','HIERBABUENA / LIMA','MENTHE / CITRON VERT'],
 'gin-tag':['GIN / RED BULL TROPICAL','GIN / RED BULL TROPICAL','GIN / RED BULL TROPICAL','GIN / RED BULL TROPICAL'],
 'vodka-tag':['VODKA / RED BULL TROPICAL','VODKA / RED BULL TROPICAL','VODKA / RED BULL TROPICAL','VODKA / RED BULL TROPICAL'],
-'per-pack':['Preço por pack','Price per pack','Precio por pack','Prix par pack']
+'per-pack':['Preço por pack','Price per pack','Precio por pack','Prix par pack'],
+'install-eyebrow':['APP CHEERS','CHEERS APP','APP CHEERS','APPLI CHEERS'],
+'install-title':['Leva a carta contigo.','Take the menu with you.','Llévate la carta.','Emporte la carte.'],
+'install-copy':['Instala a CHEERS no teu telemóvel: abre num toque, em ecrã inteiro, e guarda as tuas escolhas para a próxima visita.','Install CHEERS on your phone: open it in one tap, full screen, and keep your choices for next time.','Instala CHEERS en tu móvil: ábrela con un toque, a pantalla completa, y guarda tus elecciones para la próxima visita.','Installe CHEERS sur ton téléphone : ouvre-la en un geste, en plein écran, et garde tes choix pour la prochaine visite.'],
+'install-ios-1':['Toca em <b>Partilhar</b> <span class="ios-share" aria-hidden="true"></span> na barra do Safari.','Tap <b>Share</b> <span class="ios-share" aria-hidden="true"></span> in the Safari toolbar.','Toca en <b>Compartir</b> <span class="ios-share" aria-hidden="true"></span> en la barra de Safari.','Touche <b>Partager</b> <span class="ios-share" aria-hidden="true"></span> dans la barre de Safari.'],
+'install-ios-2':['Escolhe <b>Adicionar ao ecrã principal</b>.','Choose <b>Add to Home Screen</b>.','Elige <b>Añadir a pantalla de inicio</b>.','Choisis <b>Sur l’écran d’accueil</b>.'],
+'install-ios-3':['Toca em <b>Adicionar</b>. Pronto!','Tap <b>Add</b>. Done!','Toca en <b>Añadir</b>. ¡Listo!','Touche <b>Ajouter</b>. C’est fait !'],
+'install-later':['Agora não','Not now','Ahora no','Plus tard'],
+'install-accept':['Instalar app','Install app','Instalar app','Installer l’appli'],
+'install-ok':['Percebido','Got it','Entendido','Compris'],
+'installed':['App instalada. Até já!','App installed. See you soon!','App instalada. ¡Hasta pronto!','Appli installée. À bientôt !']
 };
 function t(key){return translations[key]?.[locales.indexOf(lang)]||translations[key]?.[0]||key;}

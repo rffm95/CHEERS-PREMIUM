@@ -48,4 +48,17 @@ $$('.wordmark').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();nav
 window.addEventListener('hashchange',()=>{if(products.length)routeFromHash();});
 // Image failures retain the product, description and price.
 document.addEventListener('error',e=>{if(e.target.tagName==='IMG')e.target.hidden=true;},true);
+// Install prompt: shown once, on the first visit, on phones that can install the menu as an app.
+let installEvent=null;
+function installSeen(){try{return localStorage.getItem('cheers-install-seen')==='1';}catch{return true;}}
+function isStandalone(){return matchMedia('(display-mode: standalone)').matches||navigator.standalone===true;}
+function isIOS(){return /iphone|ipad|ipod/i.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);}
+function offerInstall(){if(installSeen()||isStandalone()||$$('dialog[open]').length)return;const ios=isIOS()&&!installEvent;if(!ios&&!installEvent)return;$('#install-ios').hidden=!ios;$('#install-accept').hidden=ios;$('#install-ok').hidden=!ios;try{localStorage.setItem('cheers-install-seen','1');}catch{}openDialog('install-dialog');$('#install-dialog').focus();}
+window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();installEvent=e;setTimeout(offerInstall,2500);});
+window.addEventListener('appinstalled',()=>{installEvent=null;try{localStorage.setItem('cheers-install-seen','1');}catch{}});
+$('#install-accept').addEventListener('click',async()=>{const e=installEvent;$('#install-dialog').close();if(!e)return;installEvent=null;e.prompt();try{const {outcome}=await e.userChoice;if(outcome==='accepted')toast(t('installed'));}catch{}});
+$('#install-later').addEventListener('click',()=>$('#install-dialog').close());
+$('#install-ok').addEventListener('click',()=>$('#install-dialog').close());
+window.addEventListener('load',()=>setTimeout(offerInstall,2500));
+if('serviceWorker' in navigator&&location.protocol!=='file:')window.addEventListener('load',()=>navigator.serviceWorker.register('/sw.js').catch(()=>{}));
 loadMenu();
