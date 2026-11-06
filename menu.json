@@ -503,8 +503,8 @@
     },
     "price": 10,
     "category": "gins",
-    "image": "images/generated/gin-citrus.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/adamus-original.webp",
+    "imageKind": "photo"
   },
   {
     "id": "gin-ada23",
@@ -522,8 +522,8 @@
     },
     "price": 13,
     "category": "gins",
-    "image": "images/generated/gin-citrus.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/adamus-2023.webp",
+    "imageKind": "photo"
   },
   {
     "id": "gin-ada21",
@@ -674,8 +674,8 @@
     },
     "price": 10,
     "category": "gins",
-    "image": "images/generated/gin-citrus.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/black-pig.webp",
+    "imageKind": "photo"
   },
   {
     "id": "gin-sha",
@@ -693,8 +693,8 @@
     },
     "price": 10,
     "category": "gins",
-    "image": "images/generated/gin-apple.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/sharish.webp",
+    "imageKind": "photo"
   },
   {
     "id": "gin-bee",
@@ -1071,8 +1071,8 @@
     },
     "price": 8,
     "category": "vodkas",
-    "image": "images/generated/vodka.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/ciroc.webp",
+    "imageKind": "photo"
   },
   {
     "id": "vod-bel",
@@ -1090,8 +1090,8 @@
     },
     "price": 10,
     "category": "vodkas",
-    "image": "images/generated/vodka.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/belvedere.webp",
+    "imageKind": "photo"
   },
   {
     "id": "vod-pra",
@@ -1290,7 +1290,9 @@
       "fr": "Blanc/rouge."
     },
     "price": 25,
-    "category": "wine"
+    "category": "wine",
+    "image": "images/brands/maos-douro.webp",
+    "imageKind": "photo"
   },
   {
     "id": "win-maz",
@@ -1308,8 +1310,8 @@
     },
     "price": 15,
     "category": "wine",
-    "image": "images/generated/wine-pair.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/mazouco.webp",
+    "imageKind": "photo"
   },
   {
     "id": "win-pla",
@@ -1327,8 +1329,8 @@
     },
     "price": 15,
     "category": "wine",
-    "image": "images/generated/wine-pair.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/planura.webp",
+    "imageKind": "photo"
   },
   {
     "id": "win-mel",
@@ -1346,8 +1348,8 @@
     },
     "price": 20,
     "category": "wine",
-    "image": "images/generated/wine-pair.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/melange-a-trois.webp",
+    "imageKind": "photo"
   },
   {
     "id": "win-pap",
@@ -1384,8 +1386,8 @@
     },
     "price": 15,
     "category": "wine",
-    "image": "images/generated/white-wine.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/casa-de-santar.webp",
+    "imageKind": "photo"
   },
   {
     "id": "win-ade-b",
@@ -1403,8 +1405,8 @@
     },
     "price": 15,
     "category": "wine",
-    "image": "images/generated/red-wine.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/penalva-baga.webp",
+    "imageKind": "photo"
   },
   {
     "id": "win-cai",
@@ -1422,8 +1424,8 @@
     },
     "price": 15,
     "category": "wine",
-    "image": "images/generated/wine-pair.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/caiado.webp",
+    "imageKind": "photo"
   },
   {
     "id": "win-ade-m",
