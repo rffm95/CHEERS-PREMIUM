@@ -267,8 +267,8 @@
     },
     "price": 7,
     "category": "cocktails",
-    "image": "images/generated/passionfruit-mojito.webp",
-    "imageKind": "illustration"
+    "image": "images/passionfruit-mojito-real.webp",
+    "imageKind": "photo"
   },
   {
     "id": "cock-por",
