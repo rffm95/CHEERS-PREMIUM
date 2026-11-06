@@ -153,8 +153,8 @@
     },
     "price": 7,
     "category": "cocktails",
-    "image": "images/generated/espresso.webp",
-    "imageKind": "illustration"
+    "image": "images/espresso-martini.webp",
+    "imageKind": "photo"
   },
   {
     "id": "cock-mos",
@@ -571,8 +571,8 @@
     },
     "price": 9,
     "category": "gins",
-    "image": "images/generated/gin-grape.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/nordes.webp",
+    "imageKind": "photo"
   },
   {
     "id": "gin-hen",
@@ -590,8 +590,8 @@
     },
     "price": 11,
     "category": "gins",
-    "image": "images/generated/gin-cucumber.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/hendricks.webp",
+    "imageKind": "photo"
   },
   {
     "id": "gin-mon",
@@ -628,8 +628,8 @@
     },
     "price": 10,
     "category": "gins",
-    "image": "images/generated/gin-basil.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/gin-mare.webp",
+    "imageKind": "photo"
   },
   {
     "id": "gin-tri",
@@ -704,8 +704,8 @@
     },
     "price": 7,
     "category": "gins",
-    "image": "images/generated/gin-citrus.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/beefeater.webp",
+    "imageKind": "photo"
   },
   {
     "id": "gin-tan",
@@ -723,8 +723,8 @@
     },
     "price": 7,
     "category": "gins",
-    "image": "images/generated/gin-citrus.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/tanqueray.webp",
+    "imageKind": "photo"
   },
   {
     "id": "gin-sev",
@@ -742,8 +742,8 @@
     },
     "price": 9,
     "category": "gins",
-    "image": "images/generated/gin-citrus.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/tanqueray-sevilla.webp",
+    "imageKind": "photo"
   },
   {
     "id": "gin-tan-ten",
@@ -837,8 +837,8 @@
     },
     "price": 7,
     "category": "whiskeys",
-    "image": "images/generated/whiskey.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/jack-daniels.webp",
+    "imageKind": "photo"
   },
   {
     "id": "whi-jac-a",
@@ -913,8 +913,8 @@
     },
     "price": 6.5,
     "category": "whiskeys",
-    "image": "images/generated/whiskey.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/jameson.webp",
+    "imageKind": "photo"
   },
   {
     "id": "whi-jam-b",
@@ -970,8 +970,8 @@
     },
     "price": 8,
     "category": "whiskeys",
-    "image": "images/generated/whiskey.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/johnnie-walker-black.webp",
+    "imageKind": "photo"
   },
   {
     "id": "whi-dew-8",
@@ -1044,8 +1044,8 @@
     },
     "price": 10,
     "category": "vodkas",
-    "image": "images/generated/vodka.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/grey-goose.webp",
+    "imageKind": "photo"
   },
   {
     "id": "vod-cir",
@@ -1139,8 +1139,8 @@
     },
     "price": 6,
     "category": "vodkas",
-    "image": "images/generated/vodka.webp",
-    "imageKind": "illustration"
+    "image": "images/brands/absolut.webp",
+    "imageKind": "photo"
   },
   {
     "id": "vod-bel-42",
