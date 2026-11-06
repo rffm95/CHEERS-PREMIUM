@@ -14,7 +14,9 @@
       "fr": "Gin, fruit de la passion, jus de citron vert, sucre et tonic."
     },
     "price": 35,
-    "category": "packs"
+    "category": "packs",
+    "image": "images/pack-gin-maracuja.webp",
+    "imageKind": "photo"
   },
   {
     "id": "pack-gin-mor",
@@ -82,7 +84,9 @@
       "fr": "40cl"
     },
     "price": 12.5,
-    "category": "packs"
+    "category": "packs",
+    "image": "images/pack-canecas-sagres.webp",
+    "imageKind": "photo"
   },
   {
     "id": "pack-can-hei",
@@ -99,7 +103,9 @@
       "fr": "50cl"
     },
     "price": 15,
-    "category": "packs"
+    "category": "packs",
+    "image": "images/pack-canecas-heineken.webp",
+    "imageKind": "photo"
   },
   {
     "id": "pack-sho-cas",
@@ -116,7 +122,9 @@
       "fr": "Vodka, purée de fruit de la passion ou de fraise."
     },
     "price": 10,
-    "category": "packs"
+    "category": "packs",
+    "image": "images/pack-shots.webp",
+    "imageKind": "photo"
   },
   {
     "id": "cock-whi",
@@ -1489,7 +1497,9 @@
       "fr": "Blanc."
     },
     "price": 30,
-    "category": "wine"
+    "category": "wine",
+    "image": "images/santar-curtimenta.webp",
+    "imageKind": "photo"
   },
   {
     "id": "bee-gui",
@@ -1730,7 +1740,9 @@
       "fr": "Vodka de la maison, purée de fruit de la passion ou de fraise."
     },
     "price": 2,
-    "category": "shots"
+    "category": "shots",
+    "image": "images/shot-casa.webp",
+    "imageKind": "photo"
   },
   {
     "id": "sho-ser",
