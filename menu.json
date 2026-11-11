@@ -180,8 +180,8 @@
     },
     "price": 8,
     "category": "cocktails",
-    "image": "images/generated/mule.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/moscow-mule.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "cock-gin",
@@ -218,8 +218,8 @@
     },
     "price": 7,
     "category": "cocktails",
-    "image": "images/generated/passionfruit-gin.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/gin-maracuja.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "cock-mac",
@@ -294,8 +294,8 @@
     },
     "price": 7,
     "category": "cocktails",
-    "image": "images/generated/pornstar.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/porn-star-martini.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "cock-neg",
@@ -313,8 +313,8 @@
     },
     "price": 7,
     "category": "cocktails",
-    "image": "images/generated/negroni.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/negroni.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "cock-teq",
@@ -332,8 +332,8 @@
     },
     "price": 6.5,
     "category": "cocktails",
-    "image": "images/generated/sunrise.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/tequila-sunrise.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "cock-whi-sou",
@@ -351,8 +351,8 @@
     },
     "price": 8,
     "category": "cocktails",
-    "image": "images/generated/whiskey-sour.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/whiskey-sour.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "cock-pin",
@@ -389,8 +389,8 @@
     },
     "price": 7,
     "category": "cocktails",
-    "image": "images/generated/basil-smash.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/basil-smash.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "mock-por",
@@ -526,25 +526,6 @@
     "imageKind": "photo"
   },
   {
-    "id": "gin-ada21",
-    "name": {
-      "en": "Adamus Signature 2021",
-      "pt": "Adamus Signature 2021",
-      "es": "Adamus Signature 2021",
-      "fr": "Adamus Signature 2021"
-    },
-    "description": {
-      "en": "Lemon, 1724 tonic (LAST UNITS).",
-      "pt": "Limão, tónica 1724 ÚLTIMAS UNIDADES.",
-      "es": "Limón y tónica 1724. ÚLTIMAS UNIDADES.",
-      "fr": "Citron et tonic 1724. DERNIÈRES UNITÉS."
-    },
-    "price": 18,
-    "category": "gins",
-    "image": "images/generated/gin-citrus.webp",
-    "imageKind": "illustration"
-  },
-  {
     "id": "gin-eng",
     "name": {
       "en": "Engine",
@@ -617,8 +598,8 @@
     },
     "price": 13,
     "category": "gins",
-    "image": "images/generated/gin-citrus.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/monkey-47.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "gin-mar",
@@ -655,8 +636,8 @@
     },
     "price": 10,
     "category": "gins",
-    "image": "images/generated/gin-citrus.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/le-tribute.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "gin-bla",
@@ -769,8 +750,8 @@
     },
     "price": 10,
     "category": "gins",
-    "image": "images/generated/gin-citrus.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/tanqueray-ten.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "gin-mar-mil",
@@ -807,8 +788,8 @@
     },
     "price": 15,
     "category": "whiskeys",
-    "image": "images/generated/whiskey.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/macallan-12.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "whi-mac-15",
@@ -826,8 +807,8 @@
     },
     "price": 30,
     "category": "whiskeys",
-    "image": "images/generated/whiskey.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/macallan-15.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "whi-jac",
@@ -883,27 +864,8 @@
     },
     "price": 12,
     "category": "whiskeys",
-    "image": "images/generated/whiskey.webp",
-    "imageKind": "illustration"
-  },
-  {
-    "id": "whi-car",
-    "name": {
-      "en": "Cardhu",
-      "pt": "Carduh",
-      "es": "Carduh",
-      "fr": "Carduh"
-    },
-    "description": {
-      "en": "Single Malt (Bottle 110€).",
-      "pt": "Single Malt (Garrafa 110€).",
-      "es": "Single malt (botella 110 €).",
-      "fr": "Single malt (bouteille 110 €)."
-    },
-    "price": 11,
-    "category": "whiskeys",
-    "image": "images/generated/whiskey.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/jack-daniels-single-barrel.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "whi-jam",
@@ -940,8 +902,8 @@
     },
     "price": 8,
     "category": "whiskeys",
-    "image": "images/generated/whiskey.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/jameson-black-barrel.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "whi-joh-r",
@@ -959,8 +921,8 @@
     },
     "price": 6.5,
     "category": "whiskeys",
-    "image": "images/generated/whiskey.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/johnnie-walker-red.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "whi-joh-b",
@@ -997,8 +959,8 @@
     },
     "price": 7,
     "category": "whiskeys",
-    "image": "images/generated/whiskey.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/dewars-8.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "whi-dew-15",
@@ -1016,25 +978,8 @@
     },
     "price": 10,
     "category": "whiskeys",
-    "image": "images/generated/whiskey.webp",
-    "imageKind": "illustration"
-  },
-  {
-    "id": "vod-mix",
-    "name": {
-      "en": "Mix Red Bull / Premium Tonic",
-      "pt": "MIX RED BULL / TÓNICA PREMIUM",
-      "es": "RED BULL / TÓNICA PRÉMIUM",
-      "fr": "RED BULL / TONIC PREMIUM"
-    },
-    "description": {
-      "en": "Mixer for your vodka.",
-      "pt": "Mixer para a sua vodka.",
-      "es": "Mezclador para tu vodka.",
-      "fr": "Accompagnement pour votre vodka."
-    },
-    "price": 1,
-    "category": "vodkas"
+    "image": "images/bar/dewars-15.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "vod-gre",
@@ -1045,10 +990,10 @@
       "fr": "Grey Goose"
     },
     "description": {
-      "en": "Premium French Vodka (Bottle 90€).",
-      "pt": "Vodka Francesa Premium (Garrafa 90€).",
-      "es": "Vodka francesa prémium (botella 90 €).",
-      "fr": "Vodka française premium (bouteille 90 €)."
+      "en": "Premium French Vodka (Bottle 90€). With Red Bull +1€.",
+      "pt": "Vodka Francesa Premium (Garrafa 90€). C/ Red Bull +1€.",
+      "es": "Vodka francesa prémium (botella 90 €). Con Red Bull +1€.",
+      "fr": "Vodka française premium (bouteille 90 €). Avec Red Bull +1€."
     },
     "price": 10,
     "category": "vodkas",
@@ -1064,10 +1009,10 @@
       "fr": "Ciroc"
     },
     "description": {
-      "en": "Bottle 80€.",
-      "pt": "Garrafa 80€.",
-      "es": "Botella 80€.",
-      "fr": "Bouteille 80€."
+      "en": "Bottle 80€. With Red Bull +1€.",
+      "pt": "Garrafa 80€. C/ Red Bull +1€.",
+      "es": "Botella 80€. Con Red Bull +1€.",
+      "fr": "Bouteille 80€. Avec Red Bull +1€."
     },
     "price": 8,
     "category": "vodkas",
@@ -1083,10 +1028,10 @@
       "fr": "Belvedere"
     },
     "description": {
-      "en": "Bottle 70cl 90€ | Bottle 3L 600€.",
-      "pt": "Garrafa 70cl 90€ | Garrafa 3L 600€.",
-      "es": "Botella de 70 cl: 90 € | Botella de 3 l: 600 €.",
-      "fr": "Bouteille de 70 cl : 90 € | Bouteille de 3 l : 600 €."
+      "en": "Bottle 70cl 90€ | Bottle 3L 600€. With Red Bull +1€.",
+      "pt": "Garrafa 70cl 90€ | Garrafa 3L 600€. C/ Red Bull +1€.",
+      "es": "Botella de 70 cl: 90 € | Botella de 3 l: 600 €. Con Red Bull +1€.",
+      "fr": "Bouteille de 70 cl : 90 € | Bouteille de 3 l : 600 €. Avec Red Bull +1€."
     },
     "price": 10,
     "category": "vodkas",
@@ -1094,37 +1039,18 @@
     "imageKind": "photo"
   },
   {
-    "id": "vod-pra",
+    "id": "vod-mos",
     "name": {
-      "en": "Pravda",
-      "pt": "Pravda",
-      "es": "Pravda",
-      "fr": "Pravda"
+      "en": "Moskovskaya",
+      "pt": "Moskovskaya",
+      "es": "Moskovskaya",
+      "fr": "Moskovskaya"
     },
     "description": {
-      "en": "Bottle 1.75L.",
-      "pt": "Garrafa 1.75L.",
-      "es": "Botella 1.75L.",
-      "fr": "Bouteille 1.75L."
-    },
-    "price": 200,
-    "category": "vodkas",
-    "image": "images/generated/vodka.webp",
-    "imageKind": "illustration"
-  },
-  {
-    "id": "vod-thr",
-    "name": {
-      "en": "Three Sixty",
-      "pt": "Three Sixty",
-      "es": "Three Sixty",
-      "fr": "Three Sixty"
-    },
-    "description": {
-      "en": "Bottle 60€.",
-      "pt": "Garrafa 60€.",
-      "es": "Botella 60€.",
-      "fr": "Bouteille 60€."
+      "en": "Bottle 55€. With Red Bull +1€.",
+      "pt": "Garrafa 55€. C/ Red Bull +1€.",
+      "es": "Botella 55€. Con Red Bull +1€.",
+      "fr": "Bouteille 55€. Avec Red Bull +1€."
     },
     "price": 6,
     "category": "vodkas",
@@ -1140,34 +1066,15 @@
       "fr": "Absolut"
     },
     "description": {
-      "en": "Bottle 60€.",
-      "pt": "Garrafa 60€.",
-      "es": "Botella 60€.",
-      "fr": "Bouteille 60€."
+      "en": "Bottle 65€. With Red Bull +1€.",
+      "pt": "Garrafa 65€. C/ Red Bull +1€.",
+      "es": "Botella 65€. Con Red Bull +1€.",
+      "fr": "Bouteille 65€. Avec Red Bull +1€."
     },
-    "price": 6,
+    "price": 7,
     "category": "vodkas",
     "image": "images/brands/absolut.webp",
     "imageKind": "photo"
-  },
-  {
-    "id": "vod-bel-42",
-    "name": {
-      "en": "Bellow 42",
-      "pt": "Bellow 42",
-      "es": "Bellow 42",
-      "fr": "Bellow 42"
-    },
-    "description": {
-      "en": "Bottle 60€.",
-      "pt": "Garrafa 60€.",
-      "es": "Botella 60€.",
-      "fr": "Bouteille 60€."
-    },
-    "price": 6,
-    "category": "vodkas",
-    "image": "images/generated/vodka.webp",
-    "imageKind": "illustration"
   },
   {
     "id": "foo-piz",
@@ -1367,8 +1274,8 @@
     },
     "price": 15,
     "category": "wine",
-    "image": "images/generated/red-wine.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/papa-figos.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "win-cas",
@@ -1593,8 +1500,8 @@
     },
     "price": 2.5,
     "category": "beers",
-    "image": "images/generated/beer-mug.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/caneca-sagres.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "bee-can-hei",
@@ -1631,8 +1538,8 @@
     },
     "price": 1.8,
     "category": "beers",
-    "image": "images/generated/beer.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/heineken-garrafa.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "bee-mae",
@@ -1669,8 +1576,8 @@
     },
     "price": 2.5,
     "category": "beers",
-    "image": "images/generated/beer.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/desperados.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "san-tin",
@@ -1707,8 +1614,8 @@
     },
     "price": 15,
     "category": "sangrias",
-    "image": "images/generated/white-sangria.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/sangria-branca.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "san-esp-mar",

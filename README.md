@@ -4,7 +4,7 @@ Carta estática, sem instalação de dependências nem compilação. Português 
 
 ## Catálogo
 
-95 produtos, preservados integralmente do commit de origem `f08c82a`. O menu Netlify observado em 13/10/2026 ainda tinha 97 produtos e informação anterior às correções autorizadas. A versão do repositório já inclui Mãos Douro a 25 €, Taittinger a 85 €, remoção de Hazelnut Espresso, Super Bock e San Miguel Fresca, e Tropical com Red Bull.
+92 produtos, com base no commit de origem `f08c82a` e nas alterações pedidas pelo proprietário em 11/11/2026 (saída de Adamus Signature 2021, Carduh, Bellow 42 e Three Sixty; saída de Pravda e do item «Mix Red Bull / Tónica Premium», agora indicado em cada vodka como «C/ Red Bull +1€»; entrada de Moskovskaya; Absolut a 7 €, garrafa 65 €). O menu Netlify observado em 13/10/2026 ainda tinha 97 produtos e informação anterior às correções autorizadas. A versão do repositório já inclui Mãos Douro a 25 €, Taittinger a 85 €, remoção de Hazelnut Espresso, Super Bock e San Miguel Fresca, e Tropical com Red Bull.
 
 ## Experiência
 
@@ -26,7 +26,7 @@ Novos ingredientes da descoberta devem ser validados contra as receitas em `menu
 
 ## Pontos a validar pelo proprietário
 
-Mantidos exatamente como na fonte: Adamus 2021 com «ÚLTIMAS UNIDADES»; nomes «Carduh», «Bellow 42», «The Macallan 12 Double Cask Cherry Woak»; sangria de espumante e morango com maracujá; pack de shots com maracujá **ou morango**. Confirmar estes dados antes de eventual correção. Não há categoria tequila nem refrigerantes no catálogo: não foram inventados produtos a partir de listas externas.
+Mantidos exatamente como na fonte: nome «The Macallan 12 Double Cask Cherry Woak»; sangria de espumante e morango com maracujá; pack de shots com maracujá **ou morango**. Confirmar estes dados antes de eventual correção. Não há categoria tequila nem refrigerantes no catálogo: não foram inventados produtos a partir de listas externas.
 
 ## Análise de rentabilidade
 
