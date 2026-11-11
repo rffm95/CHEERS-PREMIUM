@@ -33,7 +33,9 @@
       "fr": "Gin, fraise, jus de citron vert et sucre."
     },
     "price": 35,
-    "category": "packs"
+    "category": "packs",
+    "image": "images/bar/pack-gins-morango.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "pack-reg-sag",
@@ -50,7 +52,9 @@
       "fr": "20cl"
     },
     "price": 6.5,
-    "category": "packs"
+    "category": "packs",
+    "image": "images/bar/regua-sagres.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "pack-reg-hei",
@@ -67,7 +71,9 @@
       "fr": "25cl"
     },
     "price": 7.5,
-    "category": "packs"
+    "category": "packs",
+    "image": "images/bar/regua-heineken.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "pack-can-sag",
@@ -1462,8 +1468,8 @@
     },
     "price": 1.5,
     "category": "beers",
-    "image": "images/generated/beer.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/fino-sagres.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "bee-fin-hei",
@@ -1519,8 +1525,8 @@
     },
     "price": 3,
     "category": "beers",
-    "image": "images/generated/beer-mug.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/caneca-heineken.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "bee-hei",
@@ -1557,8 +1563,8 @@
     },
     "price": 2,
     "category": "beers",
-    "image": "images/generated/dark-beer.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/maestra-preta.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "bee-des",
@@ -1595,8 +1601,8 @@
     },
     "price": 15,
     "category": "sangrias",
-    "image": "images/generated/red-sangria.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/sangria-tinta.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "san-bra",
@@ -1632,7 +1638,9 @@
       "fr": "Vin pétillant, purée de fruit de la passion, jus de citron vert et fruit de la passion."
     },
     "price": 20,
-    "category": "sangrias"
+    "category": "sangrias",
+    "image": "images/bar/sangria-espumante-maracuja.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "san-esp-mor",
@@ -1649,7 +1657,9 @@
       "fr": "Vin pétillant, purée de fraise, jus de citron vert et fruit de la passion."
     },
     "price": 20,
-    "category": "sangrias"
+    "category": "sangrias",
+    "image": "images/bar/sangria-espumante-morango.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "sho-cas",
@@ -1685,7 +1695,9 @@
       "fr": "Spiritueux de la maison."
     },
     "price": 2.5,
-    "category": "shots"
+    "category": "shots",
+    "image": "images/bar/shot.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "sho-pre",
