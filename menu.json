@@ -243,8 +243,8 @@
     },
     "price": 7,
     "category": "cocktails",
-    "image": "images/generated/apple-whiskey.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/maca-dourada.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "cock-moj",
