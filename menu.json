@@ -376,8 +376,8 @@
     },
     "price": 8,
     "category": "cocktails",
-    "image": "images/generated/colada.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/colada.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "cock-bas",
@@ -414,8 +414,8 @@
     },
     "price": 4,
     "category": "mocktails",
-    "image": "images/generated/sunrise.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/por-do-sol.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "mock-pan",
@@ -433,8 +433,8 @@
     },
     "price": 4,
     "category": "mocktails",
-    "image": "images/generated/pink-panther.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/pantera-cor-de-rosa.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "mock-vir",
@@ -452,8 +452,8 @@
     },
     "price": 4,
     "category": "mocktails",
-    "image": "images/generated/colada.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/colada.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "mock-rea",
@@ -471,8 +471,8 @@
     },
     "price": 4,
     "category": "mocktails",
-    "image": "images/generated/sunrise.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/realito.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "mock-pas",
@@ -490,8 +490,8 @@
     },
     "price": 4,
     "category": "mocktails",
-    "image": "images/generated/passionfruit-vodka.webp",
-    "imageKind": "illustration"
+    "image": "images/bar/passion-fizz.webp",
+    "imageKind": "supplied"
   },
   {
     "id": "gin-ada-ori",
